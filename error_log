@@ -1,0 +1,676 @@
+[02-Mar-2014 20:25:36 America/Chicago] PHP Fatal error:  Call to undefined function getDbConnection() in /home1/pycdorg/public_html/competitions/test.php on line 5
+[02-Mar-2014 20:25:50 America/Chicago] PHP Fatal error:  Call to undefined function getDbConnection() in /home1/pycdorg/public_html/competitions/test.php on line 5
+[02-Mar-2014 20:25:54 America/Chicago] PHP Fatal error:  Call to undefined function getDbConnection() in /home1/pycdorg/public_html/competitions/test.php on line 5
+[02-Mar-2014 20:27:04 America/Chicago] PHP Fatal error:  Call to undefined function getDbConnection() in /home1/pycdorg/public_html/competitions/test.php on line 5
+[02-Mar-2014 20:30:24 America/Chicago] PHP Fatal error:  Call to undefined function getDbConnection() in /home1/pycdorg/public_html/competitions/test.php on line 5
+[02-Mar-2014 20:30:25 America/Chicago] PHP Fatal error:  Call to undefined function getDbConnection() in /home1/pycdorg/public_html/competitions/test.php on line 5
+[02-Mar-2014 20:31:04 America/Chicago] PHP Fatal error:  Call to undefined function getDbConnection() in /home1/pycdorg/public_html/competitions/test.php on line 4
+[02-Mar-2014 20:32:21 America/Chicago] PHP Fatal error:  Call to undefined function getDbConnection() in /home1/pycdorg/public_html/competitions/test.php on line 4
+[02-Mar-2014 20:32:22 America/Chicago] PHP Fatal error:  Call to undefined function getDbConnection() in /home1/pycdorg/public_html/competitions/test.php on line 4
+[02-Mar-2014 20:34:19 America/Chicago] PHP Fatal error:  Call to undefined function getDbConnection() in /home1/pycdorg/public_html/competitions/test.php on line 4
+[02-Mar-2014 20:34:20 America/Chicago] PHP Fatal error:  Call to undefined function getDbConnection() in /home1/pycdorg/public_html/competitions/test.php on line 4
+[02-Mar-2014 20:34:32 America/Chicago] PHP Fatal error:  Call to undefined function getDbConnection() in /home1/pycdorg/public_html/competitions/test.php on line 4
+[02-Mar-2014 20:34:33 America/Chicago] PHP Fatal error:  Call to undefined function getDbConnection() in /home1/pycdorg/public_html/competitions/test.php on line 4
+[02-Mar-2014 20:34:34 America/Chicago] PHP Fatal error:  Call to undefined function getDbConnection() in /home1/pycdorg/public_html/competitions/test.php on line 4
+[02-Mar-2014 20:34:45 America/Chicago] PHP Fatal error:  Call to undefined function getDbConnection() in /home1/pycdorg/public_html/competitions/test.php on line 4
+[02-Mar-2014 20:34:46 America/Chicago] PHP Fatal error:  Call to undefined function getDbConnection() in /home1/pycdorg/public_html/competitions/test.php on line 4
+[02-Mar-2014 20:35:33 America/Chicago] PHP Fatal error:  Call to undefined function getDbConnection() in /home1/pycdorg/public_html/competitions/test.php on line 4
+[02-Mar-2014 20:36:57 America/Chicago] PHP Fatal error:  Call to undefined function getDbConnection() in /home1/pycdorg/public_html/competitions/test.php on line 4
+[02-Mar-2014 20:37:34 America/Chicago] PHP Fatal error:  Call to undefined function getDbConnection() in /home1/pycdorg/public_html/competitions/test.php on line 4
+[02-Mar-2014 20:37:36 America/Chicago] PHP Fatal error:  Call to undefined function getDbConnection() in /home1/pycdorg/public_html/competitions/test.php on line 4
+[02-Mar-2014 20:41:09 America/Chicago] PHP Fatal error:  Call to undefined function getDbConnection() in /home1/pycdorg/public_html/competitions/test.php on line 4
+[02-Mar-2014 20:44:39 America/Chicago] PHP Warning:  mysql_connect(): Host 'box882.bluehost.com' is blocked because of many connection errors; unblock with 'mysqladmin flush-hosts' in /home1/pycdorg/public_html/competitions/includes/database.php on line 17
+[02-Mar-2014 20:47:16 America/Chicago] PHP Warning:  mysql_connect(): Host 'box882.bluehost.com' is blocked because of many connection errors; unblock with 'mysqladmin flush-hosts' in /home1/pycdorg/public_html/competitions/includes/database.php on line 17
+[02-Mar-2014 20:47:19 America/Chicago] PHP Warning:  mysql_connect(): Host 'box882.bluehost.com' is blocked because of many connection errors; unblock with 'mysqladmin flush-hosts' in /home1/pycdorg/public_html/competitions/includes/database.php on line 17
+[02-Mar-2014 20:47:24 America/Chicago] PHP Warning:  mysql_connect(): Host 'box882.bluehost.com' is blocked because of many connection errors; unblock with 'mysqladmin flush-hosts' in /home1/pycdorg/public_html/competitions/includes/database.php on line 17
+[02-Mar-2014 20:48:12 America/Chicago] PHP Warning:  mysql_connect(): Host 'box882.bluehost.com' is blocked because of many connection errors; unblock with 'mysqladmin flush-hosts' in /home1/pycdorg/public_html/competitions/includes/database.php on line 17
+[02-Mar-2014 20:48:13 America/Chicago] PHP Warning:  mysql_connect(): Host 'box882.bluehost.com' is blocked because of many connection errors; unblock with 'mysqladmin flush-hosts' in /home1/pycdorg/public_html/competitions/includes/database.php on line 17
+[02-Mar-2014 20:48:47 America/Chicago] PHP Warning:  mysql_connect(): Host 'box882.bluehost.com' is blocked because of many connection errors; unblock with 'mysqladmin flush-hosts' in /home1/pycdorg/public_html/competitions/includes/database.php on line 17
+[02-Mar-2014 20:48:53 America/Chicago] PHP Warning:  mysql_connect(): Host 'box882.bluehost.com' is blocked because of many connection errors; unblock with 'mysqladmin flush-hosts' in /home1/pycdorg/public_html/competitions/includes/database.php on line 17
+[02-Mar-2014 20:48:54 America/Chicago] PHP Warning:  mysql_connect(): Host 'box882.bluehost.com' is blocked because of many connection errors; unblock with 'mysqladmin flush-hosts' in /home1/pycdorg/public_html/competitions/includes/database.php on line 17
+[02-Mar-2014 20:50:37 America/Chicago] PHP Warning:  mysql_connect(): Host 'box882.bluehost.com' is blocked because of many connection errors; unblock with 'mysqladmin flush-hosts' in /home1/pycdorg/public_html/competitions/includes/database.php on line 17
+[04-Mar-2014 01:30:00 America/Denver] PHP Warning:  require_once(../lib/Phamlp/Phamlp.php): failed to open stream: No such file or directory in /home1/pycdorg/public_html/competitions/includes/common.php on line 21
+[04-Mar-2014 01:30:00 America/Denver] PHP Fatal error:  require_once(): Failed opening required '../lib/Phamlp/Phamlp.php' (include_path='.:/usr/php/54/usr/lib64:/usr/php/54/usr/share/pear') in /home1/pycdorg/public_html/competitions/includes/common.php on line 21
+[04-Mar-2014 01:30:03 America/Denver] PHP Warning:  require_once(../lib/Phamlp/Phamlp.php): failed to open stream: No such file or directory in /home1/pycdorg/public_html/competitions/includes/common.php on line 21
+[04-Mar-2014 01:30:03 America/Denver] PHP Fatal error:  require_once(): Failed opening required '../lib/Phamlp/Phamlp.php' (include_path='.:/usr/php/54/usr/lib64:/usr/php/54/usr/share/pear') in /home1/pycdorg/public_html/competitions/includes/common.php on line 21
+[04-Mar-2014 01:30:06 America/Denver] PHP Warning:  require_once(../lib/Phamlp/Phamlp.php): failed to open stream: No such file or directory in /home1/pycdorg/public_html/competitions/includes/common.php on line 21
+[04-Mar-2014 01:30:06 America/Denver] PHP Fatal error:  require_once(): Failed opening required '../lib/Phamlp/Phamlp.php' (include_path='.:/usr/php/54/usr/lib64:/usr/php/54/usr/share/pear') in /home1/pycdorg/public_html/competitions/includes/common.php on line 21
+[04-Mar-2014 01:30:46 America/Denver] PHP Warning:  require_once(../lib/Phamlp/Phamlp.php): failed to open stream: No such file or directory in /home1/pycdorg/public_html/competitions/includes/common.php on line 21
+[04-Mar-2014 01:30:46 America/Denver] PHP Fatal error:  require_once(): Failed opening required '../lib/Phamlp/Phamlp.php' (include_path='.:/usr/php/54/usr/lib64:/usr/php/54/usr/share/pear') in /home1/pycdorg/public_html/competitions/includes/common.php on line 21
+[04-Mar-2014 01:30:50 America/Denver] PHP Warning:  require_once(../lib/Phamlp/Phamlp.php): failed to open stream: No such file or directory in /home1/pycdorg/public_html/competitions/includes/common.php on line 21
+[04-Mar-2014 01:30:50 America/Denver] PHP Fatal error:  require_once(): Failed opening required '../lib/Phamlp/Phamlp.php' (include_path='.:/usr/php/54/usr/lib64:/usr/php/54/usr/share/pear') in /home1/pycdorg/public_html/competitions/includes/common.php on line 21
+[04-Mar-2014 01:31:34 America/Denver] PHP Warning:  require_once(../lib/Phamlp/Phamlp.php): failed to open stream: No such file or directory in /home1/pycdorg/public_html/competitions/includes/common.php on line 21
+[04-Mar-2014 01:31:34 America/Denver] PHP Fatal error:  require_once(): Failed opening required '../lib/Phamlp/Phamlp.php' (include_path='.:/usr/php/54/usr/lib64:/usr/php/54/usr/share/pear') in /home1/pycdorg/public_html/competitions/includes/common.php on line 21
+[04-Mar-2014 01:31:47 America/Denver] PHP Warning:  require_once(../lib/Phamlp/Phamlp.php): failed to open stream: No such file or directory in /home1/pycdorg/public_html/competitions/includes/common.php on line 21
+[04-Mar-2014 01:31:47 America/Denver] PHP Fatal error:  require_once(): Failed opening required '../lib/Phamlp/Phamlp.php' (include_path='.:/usr/php/54/usr/lib64:/usr/php/54/usr/share/pear') in /home1/pycdorg/public_html/competitions/includes/common.php on line 21
+[04-Mar-2014 01:31:52 America/Denver] PHP Warning:  require_once(../lib/Phamlp/Phamlp.php): failed to open stream: No such file or directory in /home1/pycdorg/public_html/competitions/includes/common.php on line 21
+[04-Mar-2014 01:31:52 America/Denver] PHP Fatal error:  require_once(): Failed opening required '../lib/Phamlp/Phamlp.php' (include_path='.:/usr/php/54/usr/lib64:/usr/php/54/usr/share/pear') in /home1/pycdorg/public_html/competitions/includes/common.php on line 21
+[04-Mar-2014 01:32:29 America/Denver] PHP Warning:  require_once(../lib/Phamlp/Phamlp.php): failed to open stream: No such file or directory in /home1/pycdorg/public_html/competitions/includes/common.php on line 21
+[04-Mar-2014 01:32:29 America/Denver] PHP Fatal error:  require_once(): Failed opening required '../lib/Phamlp/Phamlp.php' (include_path='.:/usr/php/54/usr/lib64:/usr/php/54/usr/share/pear') in /home1/pycdorg/public_html/competitions/includes/common.php on line 21
+[04-Mar-2014 01:33:55 America/Denver] PHP Warning:  require_once(../lib/Phamlp/Phamlp.php): failed to open stream: No such file or directory in /home1/pycdorg/public_html/competitions/includes/common.php on line 21
+[04-Mar-2014 01:33:55 America/Denver] PHP Fatal error:  require_once(): Failed opening required '../lib/Phamlp/Phamlp.php' (include_path='.:/usr/php/54/usr/lib64:/usr/php/54/usr/share/pear') in /home1/pycdorg/public_html/competitions/includes/common.php on line 21
+[04-Mar-2014 01:34:18 America/Denver] PHP Warning:  require_once(../lib/Phamlp/Phamlp.php): failed to open stream: No such file or directory in /home1/pycdorg/public_html/competitions/includes/common.php on line 21
+[04-Mar-2014 01:34:18 America/Denver] PHP Fatal error:  require_once(): Failed opening required '../lib/Phamlp/Phamlp.php' (include_path='.:/usr/php/54/usr/lib64:/usr/php/54/usr/share/pear') in /home1/pycdorg/public_html/competitions/includes/common.php on line 21
+[04-Mar-2014 01:34:30 America/Denver] PHP Warning:  require_once(../lib/Phamlp/Phamlp.php): failed to open stream: No such file or directory in /home1/pycdorg/public_html/competitions/includes/common.php on line 21
+[04-Mar-2014 01:34:30 America/Denver] PHP Fatal error:  require_once(): Failed opening required '../lib/Phamlp/Phamlp.php' (include_path='.:/usr/php/54/usr/lib64:/usr/php/54/usr/share/pear') in /home1/pycdorg/public_html/competitions/includes/common.php on line 21
+[04-Mar-2014 01:34:38 America/Denver] PHP Warning:  require_once(../lib/Phamlp/Phamlp.php): failed to open stream: No such file or directory in /home1/pycdorg/public_html/competitions/includes/common.php on line 21
+[04-Mar-2014 01:34:38 America/Denver] PHP Fatal error:  require_once(): Failed opening required '../lib/Phamlp/Phamlp.php' (include_path='.:/usr/php/54/usr/lib64:/usr/php/54/usr/share/pear') in /home1/pycdorg/public_html/competitions/includes/common.php on line 21
+[04-Mar-2014 01:34:41 America/Denver] PHP Warning:  require_once(../lib/Phamlp/Phamlp.php): failed to open stream: No such file or directory in /home1/pycdorg/public_html/competitions/includes/common.php on line 21
+[04-Mar-2014 01:34:41 America/Denver] PHP Fatal error:  require_once(): Failed opening required '../lib/Phamlp/Phamlp.php' (include_path='.:/usr/php/54/usr/lib64:/usr/php/54/usr/share/pear') in /home1/pycdorg/public_html/competitions/includes/common.php on line 21
+[04-Mar-2014 01:34:58 America/Denver] PHP Warning:  require_once(../lib/Phamlp/Phamlp.php): failed to open stream: No such file or directory in /home1/pycdorg/public_html/competitions/includes/common.php on line 21
+[04-Mar-2014 01:34:58 America/Denver] PHP Fatal error:  require_once(): Failed opening required '../lib/Phamlp/Phamlp.php' (include_path='.:/usr/php/54/usr/lib64:/usr/php/54/usr/share/pear') in /home1/pycdorg/public_html/competitions/includes/common.php on line 21
+[04-Mar-2014 01:35:47 America/Denver] PHP Warning:  require_once(../lib/Phamlp/Phamlp.php): failed to open stream: No such file or directory in /home1/pycdorg/public_html/competitions/includes/common.php on line 21
+[04-Mar-2014 01:35:47 America/Denver] PHP Fatal error:  require_once(): Failed opening required '../lib/Phamlp/Phamlp.php' (include_path='.:/usr/php/54/usr/lib64:/usr/php/54/usr/share/pear') in /home1/pycdorg/public_html/competitions/includes/common.php on line 21
+[04-Mar-2014 01:36:00 America/Denver] PHP Warning:  require_once(../lib/Phamlp/Phamlp.php): failed to open stream: No such file or directory in /home1/pycdorg/public_html/competitions/includes/common.php on line 21
+[04-Mar-2014 01:36:00 America/Denver] PHP Fatal error:  require_once(): Failed opening required '../lib/Phamlp/Phamlp.php' (include_path='.:/usr/php/54/usr/lib64:/usr/php/54/usr/share/pear') in /home1/pycdorg/public_html/competitions/includes/common.php on line 21
+[04-Mar-2014 01:36:28 America/Denver] PHP Warning:  require_once(../lib/Phamlp/Phamlp.php): failed to open stream: No such file or directory in /home1/pycdorg/public_html/competitions/includes/common.php on line 21
+[04-Mar-2014 01:36:28 America/Denver] PHP Fatal error:  require_once(): Failed opening required '../lib/Phamlp/Phamlp.php' (include_path='.:/usr/php/54/usr/lib64:/usr/php/54/usr/share/pear') in /home1/pycdorg/public_html/competitions/includes/common.php on line 21
+[04-Mar-2014 01:36:59 America/Denver] PHP Warning:  require_once(../lib/Phamlp/Phamlp.php): failed to open stream: No such file or directory in /home1/pycdorg/public_html/competitions/includes/common.php on line 21
+[04-Mar-2014 01:36:59 America/Denver] PHP Fatal error:  require_once(): Failed opening required '../lib/Phamlp/Phamlp.php' (include_path='.:/usr/php/54/usr/lib64:/usr/php/54/usr/share/pear') in /home1/pycdorg/public_html/competitions/includes/common.php on line 21
+[04-Mar-2014 02:38:49 America/Chicago] PHP Fatal error:  Class 'SassParser' not found in /home1/pycdorg/public_html/competitions/index.php on line 18
+[04-Mar-2014 02:38:56 America/Chicago] PHP Fatal error:  Class 'SassParser' not found in /home1/pycdorg/public_html/competitions/index.php on line 18
+[04-Mar-2014 02:39:34 America/Chicago] PHP Fatal error:  Class 'SassParser' not found in /home1/pycdorg/public_html/competitions/index.php on line 18
+[04-Mar-2014 02:39:35 America/Chicago] PHP Fatal error:  Class 'SassParser' not found in /home1/pycdorg/public_html/competitions/index.php on line 18
+[04-Mar-2014 02:40:04 America/Chicago] PHP Fatal error:  Class 'SassParser' not found in /home1/pycdorg/public_html/competitions/index.php on line 18
+[04-Mar-2014 02:40:05 America/Chicago] PHP Fatal error:  Class 'SassParser' not found in /home1/pycdorg/public_html/competitions/index.php on line 18
+[04-Mar-2014 02:40:07 America/Chicago] PHP Fatal error:  Class 'SassParser' not found in /home1/pycdorg/public_html/competitions/index.php on line 18
+[04-Mar-2014 02:40:30 America/Chicago] PHP Fatal error:  Class 'SassParser' not found in /home1/pycdorg/public_html/competitions/index.php on line 18
+[04-Mar-2014 02:40:32 America/Chicago] PHP Fatal error:  Class 'SassParser' not found in /home1/pycdorg/public_html/competitions/index.php on line 18
+[04-Mar-2014 02:40:47 America/Chicago] PHP Fatal error:  Class 'SassParser' not found in /home1/pycdorg/public_html/competitions/index.php on line 18
+[04-Mar-2014 02:40:48 America/Chicago] PHP Fatal error:  Class 'SassParser' not found in /home1/pycdorg/public_html/competitions/index.php on line 18
+[04-Mar-2014 01:41:00 America/Denver] PHP Warning:  require_once(../lib/Phamlp/Phamlp.php): failed to open stream: No such file or directory in /home1/pycdorg/public_html/competitions/includes/common.php on line 21
+[04-Mar-2014 01:41:00 America/Denver] PHP Fatal error:  require_once(): Failed opening required '../lib/Phamlp/Phamlp.php' (include_path='.:/usr/php/54/usr/lib64:/usr/php/54/usr/share/pear') in /home1/pycdorg/public_html/competitions/includes/common.php on line 21
+[04-Mar-2014 01:41:01 America/Denver] PHP Warning:  require_once(../lib/Phamlp/Phamlp.php): failed to open stream: No such file or directory in /home1/pycdorg/public_html/competitions/includes/common.php on line 21
+[04-Mar-2014 01:41:01 America/Denver] PHP Fatal error:  require_once(): Failed opening required '../lib/Phamlp/Phamlp.php' (include_path='.:/usr/php/54/usr/lib64:/usr/php/54/usr/share/pear') in /home1/pycdorg/public_html/competitions/includes/common.php on line 21
+[04-Mar-2014 01:41:12 America/Denver] PHP Warning:  require_once(../lib/Phamlp/Phamlp.php): failed to open stream: No such file or directory in /home1/pycdorg/public_html/competitions/includes/common.php on line 21
+[04-Mar-2014 01:41:12 America/Denver] PHP Fatal error:  require_once(): Failed opening required '../lib/Phamlp/Phamlp.php' (include_path='.:/usr/php/54/usr/lib64:/usr/php/54/usr/share/pear') in /home1/pycdorg/public_html/competitions/includes/common.php on line 21
+[04-Mar-2014 01:41:14 America/Denver] PHP Warning:  require_once(../lib/Phamlp/Phamlp.php): failed to open stream: No such file or directory in /home1/pycdorg/public_html/competitions/includes/common.php on line 21
+[04-Mar-2014 01:41:14 America/Denver] PHP Fatal error:  require_once(): Failed opening required '../lib/Phamlp/Phamlp.php' (include_path='.:/usr/php/54/usr/lib64:/usr/php/54/usr/share/pear') in /home1/pycdorg/public_html/competitions/includes/common.php on line 21
+[04-Mar-2014 02:41:20 America/Chicago] PHP Fatal error:  Class 'SassParser' not found in /home1/pycdorg/public_html/competitions/index.php on line 18
+[04-Mar-2014 02:41:21 America/Chicago] PHP Fatal error:  Class 'SassParser' not found in /home1/pycdorg/public_html/competitions/index.php on line 18
+[04-Mar-2014 01:45:44 America/Denver] PHP Warning:  require_once(/lib/Phamlp/Phamlp.php): failed to open stream: No such file or directory in /home1/pycdorg/public_html/competitions/includes/common.php on line 21
+[04-Mar-2014 01:45:44 America/Denver] PHP Fatal error:  require_once(): Failed opening required '/lib/Phamlp/Phamlp.php' (include_path='.:/usr/php/54/usr/lib64:/usr/php/54/usr/share/pear') in /home1/pycdorg/public_html/competitions/includes/common.php on line 21
+[04-Mar-2014 01:45:52 America/Denver] PHP Warning:  require_once(/competitions/lib/Phamlp/Phamlp.php): failed to open stream: No such file or directory in /home1/pycdorg/public_html/competitions/includes/common.php on line 21
+[04-Mar-2014 01:45:52 America/Denver] PHP Fatal error:  require_once(): Failed opening required '/competitions/lib/Phamlp/Phamlp.php' (include_path='.:/usr/php/54/usr/lib64:/usr/php/54/usr/share/pear') in /home1/pycdorg/public_html/competitions/includes/common.php on line 21
+[04-Mar-2014 01:46:03 America/Denver] PHP Warning:  require_once(/public_html/competitions/lib/Phamlp/Phamlp.php): failed to open stream: No such file or directory in /home1/pycdorg/public_html/competitions/includes/common.php on line 21
+[04-Mar-2014 01:46:03 America/Denver] PHP Fatal error:  require_once(): Failed opening required '/public_html/competitions/lib/Phamlp/Phamlp.php' (include_path='.:/usr/php/54/usr/lib64:/usr/php/54/usr/share/pear') in /home1/pycdorg/public_html/competitions/includes/common.php on line 21
+[04-Mar-2014 01:46:13 America/Denver] PHP Warning:  require_once(/~pycdorg/public_html/competitions/lib/Phamlp/Phamlp.php): failed to open stream: No such file or directory in /home1/pycdorg/public_html/competitions/includes/common.php on line 21
+[04-Mar-2014 01:46:13 America/Denver] PHP Fatal error:  require_once(): Failed opening required '/~pycdorg/public_html/competitions/lib/Phamlp/Phamlp.php' (include_path='.:/usr/php/54/usr/lib64:/usr/php/54/usr/share/pear') in /home1/pycdorg/public_html/competitions/includes/common.php on line 21
+[04-Mar-2014 01:46:15 America/Denver] PHP Warning:  require_once(/~pycdorg/public_html/competitions/lib/Phamlp/Phamlp.php): failed to open stream: No such file or directory in /home1/pycdorg/public_html/competitions/includes/common.php on line 21
+[04-Mar-2014 01:46:15 America/Denver] PHP Fatal error:  require_once(): Failed opening required '/~pycdorg/public_html/competitions/lib/Phamlp/Phamlp.php' (include_path='.:/usr/php/54/usr/lib64:/usr/php/54/usr/share/pear') in /home1/pycdorg/public_html/competitions/includes/common.php on line 21
+[04-Mar-2014 01:46:16 America/Denver] PHP Warning:  require_once(/~pycdorg/public_html/competitions/lib/Phamlp/Phamlp.php): failed to open stream: No such file or directory in /home1/pycdorg/public_html/competitions/includes/common.php on line 21
+[04-Mar-2014 01:46:16 America/Denver] PHP Fatal error:  require_once(): Failed opening required '/~pycdorg/public_html/competitions/lib/Phamlp/Phamlp.php' (include_path='.:/usr/php/54/usr/lib64:/usr/php/54/usr/share/pear') in /home1/pycdorg/public_html/competitions/includes/common.php on line 21
+[04-Mar-2014 01:49:09 America/Denver] PHP Warning:  require_once(/home1/pycdorg/public_html/competitions/includes../lib/Phamlp/Phamlp.php): failed to open stream: No such file or directory in /home1/pycdorg/public_html/competitions/includes/common.php on line 21
+[04-Mar-2014 01:49:09 America/Denver] PHP Fatal error:  require_once(): Failed opening required '/home1/pycdorg/public_html/competitions/includes../lib/Phamlp/Phamlp.php' (include_path='.:/usr/php/54/usr/lib64:/usr/php/54/usr/share/pear') in /home1/pycdorg/public_html/competitions/includes/common.php on line 21
+[04-Mar-2014 01:49:15 America/Denver] PHP Warning:  require_once(/home1/pycdorg/public_html/competitions/includes../lib/Phamlp/Phamlp.php): failed to open stream: No such file or directory in /home1/pycdorg/public_html/competitions/includes/common.php on line 21
+[04-Mar-2014 01:49:15 America/Denver] PHP Fatal error:  require_once(): Failed opening required '/home1/pycdorg/public_html/competitions/includes../lib/Phamlp/Phamlp.php' (include_path='.:/usr/php/54/usr/lib64:/usr/php/54/usr/share/pear') in /home1/pycdorg/public_html/competitions/includes/common.php on line 21
+[04-Mar-2014 01:49:29 America/Denver] PHP Warning:  require_once(/home1/pycdorg/public_html/competitions/includes../lib/Phamlp/Phamlp.php): failed to open stream: No such file or directory in /home1/pycdorg/public_html/competitions/includes/common.php on line 21
+[04-Mar-2014 01:49:29 America/Denver] PHP Fatal error:  require_once(): Failed opening required '/home1/pycdorg/public_html/competitions/includes../lib/Phamlp/Phamlp.php' (include_path='.:/usr/php/54/usr/lib64:/usr/php/54/usr/share/pear') in /home1/pycdorg/public_html/competitions/includes/common.php on line 21
+[04-Mar-2014 13:11:42 America/Denver] PHP Parse error:  syntax error, unexpected '<' in /home1/pycdorg/public_html/competitions/index.php on line 28
+[04-Mar-2014 13:11:46 America/Denver] PHP Parse error:  syntax error, unexpected '<' in /home1/pycdorg/public_html/competitions/index.php on line 28
+[04-Mar-2014 13:15:39 America/Denver] PHP Warning:  require_once(/home1/pycdorg/public_html/lib/Phamlp/Phamlp.php): failed to open stream: No such file or directory in /home1/pycdorg/public_html/competitions/includes/common.php on line 22
+[04-Mar-2014 13:15:39 America/Denver] PHP Fatal error:  require_once(): Failed opening required '/home1/pycdorg/public_html/lib/Phamlp/Phamlp.php' (include_path='.:/usr/php/54/usr/lib64:/usr/php/54/usr/share/pear') in /home1/pycdorg/public_html/competitions/includes/common.php on line 22
+[04-Mar-2014 13:15:46 America/Denver] PHP Warning:  require_once(/home1/pycdorg/public_html/lib/Phamlp/Phamlp.php): failed to open stream: No such file or directory in /home1/pycdorg/public_html/competitions/includes/common.php on line 22
+[04-Mar-2014 13:15:46 America/Denver] PHP Fatal error:  require_once(): Failed opening required '/home1/pycdorg/public_html/lib/Phamlp/Phamlp.php' (include_path='.:/usr/php/54/usr/lib64:/usr/php/54/usr/share/pear') in /home1/pycdorg/public_html/competitions/includes/common.php on line 22
+[04-Mar-2014 13:16:22 America/Denver] PHP Warning:  require_once(/home1/pycdorg/public_html/lib/Phamlp/Phamlp.php): failed to open stream: No such file or directory in /home1/pycdorg/public_html/competitions/includes/common.php on line 22
+[04-Mar-2014 13:16:22 America/Denver] PHP Fatal error:  require_once(): Failed opening required '/home1/pycdorg/public_html/lib/Phamlp/Phamlp.php' (include_path='.:/usr/php/54/usr/lib64:/usr/php/54/usr/share/pear') in /home1/pycdorg/public_html/competitions/includes/common.php on line 22
+[04-Mar-2014 13:16:40 America/Denver] PHP Warning:  require_once(/home1/pycdorg/public_html/lib/Phamlp/Phamlp.php): failed to open stream: No such file or directory in /home1/pycdorg/public_html/competitions/includes/common.php on line 22
+[04-Mar-2014 13:16:40 America/Denver] PHP Fatal error:  require_once(): Failed opening required '/home1/pycdorg/public_html/lib/Phamlp/Phamlp.php' (include_path='.:/usr/php/54/usr/lib64:/usr/php/54/usr/share/pear') in /home1/pycdorg/public_html/competitions/includes/common.php on line 22
+[04-Mar-2014 13:19:17 America/Denver] PHP Warning:  require_once(/home1/pycdorg/public_html/lib/Phamlp/Phamlp.php): failed to open stream: No such file or directory in /home1/pycdorg/public_html/competitions/includes/common.php on line 22
+[04-Mar-2014 13:19:17 America/Denver] PHP Fatal error:  require_once(): Failed opening required '/home1/pycdorg/public_html/lib/Phamlp/Phamlp.php' (include_path='.:/usr/php/54/usr/lib64:/usr/php/54/usr/share/pear') in /home1/pycdorg/public_html/competitions/includes/common.php on line 22
+[04-Mar-2014 13:20:16 America/Denver] PHP Warning:  require_once(/home1/pycdorg/public_html/lib/Phamlp/Phamlp.php): failed to open stream: No such file or directory in /home1/pycdorg/public_html/competitions/includes/common.php on line 22
+[04-Mar-2014 13:20:16 America/Denver] PHP Fatal error:  require_once(): Failed opening required '/home1/pycdorg/public_html/lib/Phamlp/Phamlp.php' (include_path='.:/usr/php/54/usr/lib64:/usr/php/54/usr/share/pear') in /home1/pycdorg/public_html/competitions/includes/common.php on line 22
+[04-Mar-2014 13:34:33 America/Denver] PHP Notice:  Undefined variable: BASE_PATH in /home1/pycdorg/public_html/competitions/includes/common.php on line 19
+[04-Mar-2014 13:34:33 America/Denver] PHP Warning:  require_once(/lib/Phamlp/Phamlp.php): failed to open stream: No such file or directory in /home1/pycdorg/public_html/competitions/includes/common.php on line 19
+[04-Mar-2014 13:34:33 America/Denver] PHP Fatal error:  require_once(): Failed opening required '/lib/Phamlp/Phamlp.php' (include_path='.:/usr/php/54/usr/lib64:/usr/php/54/usr/share/pear') in /home1/pycdorg/public_html/competitions/includes/common.php on line 19
+[04-Mar-2014 14:36:05 America/Chicago] PHP Notice:  Undefined index: database in /home1/pycdorg/public_html/competitions/includes/database.php on line 28
+[04-Mar-2014 14:36:05 America/Chicago] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, object given in /home1/pycdorg/public_html/competitions/includes/database.php on line 28
+[04-Mar-2014 14:36:05 America/Chicago] PHP Catchable fatal error:  Object of class PDO could not be converted to string in /home1/pycdorg/public_html/competitions/index.php on line 28
+[04-Mar-2014 14:36:08 America/Chicago] PHP Notice:  Undefined index: database in /home1/pycdorg/public_html/competitions/includes/database.php on line 28
+[04-Mar-2014 14:36:08 America/Chicago] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, object given in /home1/pycdorg/public_html/competitions/includes/database.php on line 28
+[04-Mar-2014 14:36:08 America/Chicago] PHP Catchable fatal error:  Object of class PDO could not be converted to string in /home1/pycdorg/public_html/competitions/index.php on line 28
+[04-Mar-2014 14:36:16 America/Chicago] PHP Notice:  Undefined index: database in /home1/pycdorg/public_html/competitions/includes/database.php on line 28
+[04-Mar-2014 14:36:16 America/Chicago] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, object given in /home1/pycdorg/public_html/competitions/includes/database.php on line 28
+[04-Mar-2014 14:36:16 America/Chicago] PHP Catchable fatal error:  Object of class PDO could not be converted to string in /home1/pycdorg/public_html/competitions/index.php on line 28
+[04-Mar-2014 14:36:18 America/Chicago] PHP Notice:  Undefined index: database in /home1/pycdorg/public_html/competitions/includes/database.php on line 28
+[04-Mar-2014 14:36:18 America/Chicago] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, object given in /home1/pycdorg/public_html/competitions/includes/database.php on line 28
+[04-Mar-2014 14:36:18 America/Chicago] PHP Catchable fatal error:  Object of class PDO could not be converted to string in /home1/pycdorg/public_html/competitions/index.php on line 28
+[04-Mar-2014 14:37:07 America/Chicago] PHP Notice:  Undefined index: database in /home1/pycdorg/public_html/competitions/includes/database.php on line 28
+[04-Mar-2014 14:37:07 America/Chicago] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, object given in /home1/pycdorg/public_html/competitions/includes/database.php on line 28
+[04-Mar-2014 14:37:07 America/Chicago] PHP Catchable fatal error:  Object of class PDO could not be converted to string in /home1/pycdorg/public_html/competitions/index.php on line 28
+[04-Mar-2014 14:37:28 America/Chicago] PHP Catchable fatal error:  Object of class PDO could not be converted to string in /home1/pycdorg/public_html/competitions/index.php on line 28
+[04-Mar-2014 14:39:51 America/Chicago] PHP Fatal error:  Class 'SassParser' not found in /home1/pycdorg/public_html/competitions/index.php on line 18
+[04-Mar-2014 14:39:54 America/Chicago] PHP Fatal error:  Class 'SassParser' not found in /home1/pycdorg/public_html/competitions/index.php on line 18
+[04-Mar-2014 14:42:57 America/Chicago] PHP Fatal error:  Class 'SassParser' not found in /home1/pycdorg/public_html/competitions/index.php on line 18
+[04-Mar-2014 14:43:00 America/Chicago] PHP Fatal error:  Class 'SassParser' not found in /home1/pycdorg/public_html/competitions/index.php on line 18
+[04-Mar-2014 14:45:39 America/Chicago] PHP Fatal error:  Class 'SassParser' not found in /home1/pycdorg/public_html/competitions/index.php on line 18
+[04-Mar-2014 14:45:44 America/Chicago] PHP Fatal error:  Class 'SassParser' not found in /home1/pycdorg/public_html/competitions/index.php on line 18
+[04-Mar-2014 14:47:02 America/Chicago] PHP Fatal error:  Class 'SassParser' not found in /home1/pycdorg/public_html/competitions/index.php on line 18
+[04-Mar-2014 14:48:11 America/Chicago] PHP Fatal error:  Class 'SassParser' not found in /home1/pycdorg/public_html/competitions/index.php on line 18
+[04-Mar-2014 14:48:13 America/Chicago] PHP Fatal error:  Class 'SassParser' not found in /home1/pycdorg/public_html/competitions/index.php on line 18
+[04-Mar-2014 14:48:43 America/Chicago] PHP Fatal error:  Class 'SassParser' not found in /home1/pycdorg/public_html/competitions/index.php on line 20
+[04-Mar-2014 14:48:45 America/Chicago] PHP Fatal error:  Class 'SassParser' not found in /home1/pycdorg/public_html/competitions/index.php on line 20
+[04-Mar-2014 14:50:14 America/Chicago] PHP Catchable fatal error:  Object of class SassRootNode could not be converted to string in /home1/pycdorg/public_html/competitions/index.php on line 20
+[04-Mar-2014 14:50:16 America/Chicago] PHP Catchable fatal error:  Object of class SassRootNode could not be converted to string in /home1/pycdorg/public_html/competitions/index.php on line 20
+[04-Mar-2014 14:50:43 America/Chicago] PHP Catchable fatal error:  Object of class SassRootNode could not be converted to string in /home1/pycdorg/public_html/competitions/index.php on line 22
+[04-Mar-2014 14:50:45 America/Chicago] PHP Catchable fatal error:  Object of class SassRootNode could not be converted to string in /home1/pycdorg/public_html/competitions/index.php on line 22
+[04-Mar-2014 14:51:00 America/Chicago] PHP Notice:  Undefined offset: 3 in /home1/pycdorg/public_html/competitions/lib/Phamlp/sass/script/SassScriptParser.php on line 114
+[04-Mar-2014 14:51:00 America/Chicago] PHP Fatal error:  Uncaught exception 'SassScriptOperationException' with message 'Undefined operation "op_unary_concat" for SassNumber: /home1/pycdorg/public_html/competitions/css/main.scss::70
+Source: padding: 3px ' in /home1/pycdorg/public_html/competitions/lib/Phamlp/sass/script/SassScriptOperation.php:139
+Stack trace:
+#0 /home1/pycdorg/public_html/competitions/lib/Phamlp/sass/script/SassScriptParser.php(89): SassScriptOperation->perform(Array)
+#1 /home1/pycdorg/public_html/competitions/lib/Phamlp/sass/tree/SassNode.php(297): SassScriptParser->evaluate(' 3px ', Object(SassContext), 2)
+#2 /home1/pycdorg/public_html/competitions/lib/Phamlp/sass/tree/SassPropertyNode.php(102): SassNode->evaluate(' 3px ', Object(SassContext), 2)
+#3 /home1/pycdorg/public_html/competitions/lib/Phamlp/sass/tree/SassNode.php(329): SassPropertyNode->parse(Object(SassContext))
+#4 /home1/pycdorg/public_html/competitions/lib/Phamlp/sass/tree/SassRuleNode.php(87): SassNode->parseChildren(Object(SassContext))
+#5 /home1/pycdorg/public_html/competitions/li in /home1/pycdorg/public_html/competitions/lib/Phamlp/sass/script/SassScriptOperation.php on line 139
+[04-Mar-2014 14:52:16 America/Chicago] PHP Notice:  Undefined offset: 3 in /home1/pycdorg/public_html/competitions/lib/Phamlp/sass/script/SassScriptParser.php on line 114
+[04-Mar-2014 14:52:16 America/Chicago] PHP Fatal error:  Uncaught exception 'SassScriptOperationException' with message 'Undefined operation "op_unary_concat" for SassNumber: /home1/pycdorg/public_html/competitions/css/main.scss::69
+Source: padding: 3px ' in /home1/pycdorg/public_html/competitions/lib/Phamlp/sass/script/SassScriptOperation.php:139
+Stack trace:
+#0 /home1/pycdorg/public_html/competitions/lib/Phamlp/sass/script/SassScriptParser.php(89): SassScriptOperation->perform(Array)
+#1 /home1/pycdorg/public_html/competitions/lib/Phamlp/sass/tree/SassNode.php(297): SassScriptParser->evaluate(' 3px ', Object(SassContext), 2)
+#2 /home1/pycdorg/public_html/competitions/lib/Phamlp/sass/tree/SassPropertyNode.php(102): SassNode->evaluate(' 3px ', Object(SassContext), 2)
+#3 /home1/pycdorg/public_html/competitions/lib/Phamlp/sass/tree/SassNode.php(329): SassPropertyNode->parse(Object(SassContext))
+#4 /home1/pycdorg/public_html/competitions/lib/Phamlp/sass/tree/SassRuleNode.php(87): SassNode->parseChildren(Object(SassContext))
+#5 /home1/pycdorg/public_html/competitions/li in /home1/pycdorg/public_html/competitions/lib/Phamlp/sass/script/SassScriptOperation.php on line 139
+[04-Mar-2014 14:52:20 America/Chicago] PHP Notice:  Undefined offset: 3 in /home1/pycdorg/public_html/competitions/lib/Phamlp/sass/script/SassScriptParser.php on line 114
+[04-Mar-2014 14:52:20 America/Chicago] PHP Fatal error:  Uncaught exception 'SassScriptOperationException' with message 'Undefined operation "op_unary_concat" for SassNumber: /home1/pycdorg/public_html/competitions/css/main.scss::69
+Source: padding: 3px ' in /home1/pycdorg/public_html/competitions/lib/Phamlp/sass/script/SassScriptOperation.php:139
+Stack trace:
+#0 /home1/pycdorg/public_html/competitions/lib/Phamlp/sass/script/SassScriptParser.php(89): SassScriptOperation->perform(Array)
+#1 /home1/pycdorg/public_html/competitions/lib/Phamlp/sass/tree/SassNode.php(297): SassScriptParser->evaluate(' 3px ', Object(SassContext), 2)
+#2 /home1/pycdorg/public_html/competitions/lib/Phamlp/sass/tree/SassPropertyNode.php(102): SassNode->evaluate(' 3px ', Object(SassContext), 2)
+#3 /home1/pycdorg/public_html/competitions/lib/Phamlp/sass/tree/SassNode.php(329): SassPropertyNode->parse(Object(SassContext))
+#4 /home1/pycdorg/public_html/competitions/lib/Phamlp/sass/tree/SassRuleNode.php(87): SassNode->parseChildren(Object(SassContext))
+#5 /home1/pycdorg/public_html/competitions/li in /home1/pycdorg/public_html/competitions/lib/Phamlp/sass/script/SassScriptOperation.php on line 139
+[04-Mar-2014 15:33:49 America/Chicago] PHP Warning:  mysql_real_escape_string(): Access denied for user 'sean'@'localhost' (using password: NO) in /home1/pycdorg/public_html/competitions/controller.php on line 6
+[04-Mar-2014 15:33:49 America/Chicago] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home1/pycdorg/public_html/competitions/controller.php on line 6
+[04-Mar-2014 15:34:50 America/Chicago] PHP Warning:  mysql_real_escape_string(): Access denied for user 'sean'@'localhost' (using password: NO) in /home1/pycdorg/public_html/competitions/controller.php on line 7
+[04-Mar-2014 15:34:50 America/Chicago] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home1/pycdorg/public_html/competitions/controller.php on line 7
+[05-Mar-2014 14:06:52 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/pycdorg/public_html/competitions/includes/template.php on line 6
+[05-Mar-2014 15:06:52 America/Chicago] PHP Notice:  Undefined variable: BASE_PATH in /home1/pycdorg/public_html/competitions/includes/template.php on line 31
+[05-Mar-2014 15:06:52 America/Chicago] PHP Warning:  dirname() expects parameter 1 to be string, array given in /home1/pycdorg/public_html/competitions/lib/Phamlp/sass/SassFile.php on line 80
+[05-Mar-2014 15:07:14 America/Chicago] PHP Notice:  Undefined variable: BASE_PATH in /home1/pycdorg/public_html/competitions/includes/template.php on line 30
+[05-Mar-2014 15:07:14 America/Chicago] PHP Warning:  dirname() expects parameter 1 to be string, array given in /home1/pycdorg/public_html/competitions/lib/Phamlp/sass/SassFile.php on line 80
+[05-Mar-2014 14:18:07 America/Denver] PHP Warning:  parse_ini_file(/home1/pycdorg/public_html/competitionsconfig.ini): failed to open stream: No such file or directory in /home1/pycdorg/public_html/competitions/includes/common.php on line 3
+[05-Mar-2014 15:18:08 America/Chicago] PHP Notice:  Undefined variable: BASE_PATH in /home1/pycdorg/public_html/competitions/includes/template.php on line 30
+[05-Mar-2014 15:18:08 America/Chicago] PHP Warning:  dirname() expects parameter 1 to be string, array given in /home1/pycdorg/public_html/competitions/lib/Phamlp/sass/SassFile.php on line 80
+[05-Mar-2014 15:18:21 America/Chicago] PHP Notice:  Undefined variable: BASE_PATH in /home1/pycdorg/public_html/competitions/includes/template.php on line 30
+[05-Mar-2014 15:18:21 America/Chicago] PHP Warning:  dirname() expects parameter 1 to be string, array given in /home1/pycdorg/public_html/competitions/lib/Phamlp/sass/SassFile.php on line 80
+[05-Mar-2014 15:30:17 America/Chicago] PHP Notice:  Undefined variable: BASE_PATH in /home1/pycdorg/public_html/competitions/includes/template.php on line 30
+[05-Mar-2014 15:30:17 America/Chicago] PHP Warning:  dirname() expects parameter 1 to be string, array given in /home1/pycdorg/public_html/competitions/lib/Phamlp/sass/SassFile.php on line 80
+[05-Mar-2014 14:30:18 America/Denver] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home1/pycdorg/public_html/competitions/controller.php on line 11
+[05-Mar-2014 15:30:39 America/Chicago] PHP Notice:  Undefined variable: BASE_PATH in /home1/pycdorg/public_html/competitions/includes/template.php on line 30
+[05-Mar-2014 15:30:39 America/Chicago] PHP Warning:  dirname() expects parameter 1 to be string, array given in /home1/pycdorg/public_html/competitions/lib/Phamlp/sass/SassFile.php on line 80
+[05-Mar-2014 15:31:28 America/Chicago] PHP Notice:  Undefined variable: BASE_PATH in /home1/pycdorg/public_html/competitions/includes/template.php on line 30
+[05-Mar-2014 15:31:28 America/Chicago] PHP Warning:  dirname() expects parameter 1 to be string, array given in /home1/pycdorg/public_html/competitions/lib/Phamlp/sass/SassFile.php on line 80
+[05-Mar-2014 15:31:40 America/Chicago] PHP Notice:  Undefined variable: BASE_PATH in /home1/pycdorg/public_html/competitions/includes/template.php on line 30
+[05-Mar-2014 15:31:40 America/Chicago] PHP Warning:  dirname() expects parameter 1 to be string, array given in /home1/pycdorg/public_html/competitions/lib/Phamlp/sass/SassFile.php on line 80
+[05-Mar-2014 15:32:20 America/Chicago] PHP Notice:  Undefined variable: BASE_PATH in /home1/pycdorg/public_html/competitions/includes/template.php on line 30
+[05-Mar-2014 15:32:20 America/Chicago] PHP Warning:  dirname() expects parameter 1 to be string, array given in /home1/pycdorg/public_html/competitions/lib/Phamlp/sass/SassFile.php on line 80
+[05-Mar-2014 15:34:55 America/Chicago] PHP Notice:  Undefined variable: BASE_PATH in /home1/pycdorg/public_html/competitions/includes/template.php on line 30
+[05-Mar-2014 15:34:55 America/Chicago] PHP Warning:  dirname() expects parameter 1 to be string, array given in /home1/pycdorg/public_html/competitions/lib/Phamlp/sass/SassFile.php on line 80
+[05-Mar-2014 15:35:02 America/Chicago] PHP Notice:  Undefined variable: BASE_PATH in /home1/pycdorg/public_html/competitions/includes/template.php on line 30
+[05-Mar-2014 15:35:02 America/Chicago] PHP Warning:  dirname() expects parameter 1 to be string, array given in /home1/pycdorg/public_html/competitions/lib/Phamlp/sass/SassFile.php on line 80
+[05-Mar-2014 15:46:57 America/Chicago] PHP Notice:  Undefined variable: BASE_PATH in /home1/pycdorg/public_html/competitions/includes/template.php on line 30
+[05-Mar-2014 15:46:57 America/Chicago] PHP Warning:  dirname() expects parameter 1 to be string, array given in /home1/pycdorg/public_html/competitions/lib/Phamlp/sass/SassFile.php on line 80
+[05-Mar-2014 14:48:15 America/Denver] PHP Notice:  Undefined variable: BASE_PATH in /home1/pycdorg/public_html/competitions/includes/common.php on line 3
+[05-Mar-2014 14:48:15 America/Denver] PHP Warning:  parse_ini_file(/config.ini): failed to open stream: No such file or directory in /home1/pycdorg/public_html/competitions/includes/common.php on line 3
+[05-Mar-2014 14:48:15 America/Denver] PHP Notice:  Undefined variable: BASE_PATH in /home1/pycdorg/public_html/competitions/includes/common.php on line 20
+[05-Mar-2014 14:48:15 America/Denver] PHP Warning:  require_once(/lib/Phamlp/sass/SassParser.php): failed to open stream: No such file or directory in /home1/pycdorg/public_html/competitions/includes/common.php on line 20
+[05-Mar-2014 14:48:15 America/Denver] PHP Fatal error:  require_once(): Failed opening required '/lib/Phamlp/sass/SassParser.php' (include_path='.:/usr/php/54/usr/lib64:/usr/php/54/usr/share/pear') in /home1/pycdorg/public_html/competitions/includes/common.php on line 20
+[05-Mar-2014 14:50:35 America/Denver] PHP Warning:  Constants may only evaluate to scalar values in /home1/pycdorg/public_html/competitions/includes/common.php on line 3
+[05-Mar-2014 15:50:35 America/Chicago] PHP Notice:  Undefined variable: BASE_PATH in /home1/pycdorg/public_html/competitions/includes/template.php on line 30
+[05-Mar-2014 15:50:35 America/Chicago] PHP Warning:  dirname() expects parameter 1 to be string, array given in /home1/pycdorg/public_html/competitions/lib/Phamlp/sass/SassFile.php on line 80
+[05-Mar-2014 14:51:39 America/Denver] PHP Warning:  Constants may only evaluate to scalar values in /home1/pycdorg/public_html/competitions/includes/common.php on line 3
+[05-Mar-2014 15:51:39 America/Chicago] PHP Notice:  Undefined variable: BASE_PATH in /home1/pycdorg/public_html/competitions/includes/template.php on line 30
+[05-Mar-2014 15:51:39 America/Chicago] PHP Warning:  dirname() expects parameter 1 to be string, array given in /home1/pycdorg/public_html/competitions/lib/Phamlp/sass/SassFile.php on line 80
+[05-Mar-2014 14:51:41 America/Denver] PHP Warning:  Constants may only evaluate to scalar values in /home1/pycdorg/public_html/competitions/includes/common.php on line 3
+[05-Mar-2014 15:51:41 America/Chicago] PHP Notice:  Undefined variable: BASE_PATH in /home1/pycdorg/public_html/competitions/includes/template.php on line 30
+[05-Mar-2014 15:51:41 America/Chicago] PHP Warning:  dirname() expects parameter 1 to be string, array given in /home1/pycdorg/public_html/competitions/lib/Phamlp/sass/SassFile.php on line 80
+[05-Mar-2014 14:52:02 America/Denver] PHP Warning:  Constants may only evaluate to scalar values in /home1/pycdorg/public_html/competitions/includes/common.php on line 5
+[05-Mar-2014 15:52:02 America/Chicago] PHP Notice:  Undefined variable: BASE_PATH in /home1/pycdorg/public_html/competitions/includes/template.php on line 30
+[05-Mar-2014 15:52:02 America/Chicago] PHP Warning:  dirname() expects parameter 1 to be string, array given in /home1/pycdorg/public_html/competitions/lib/Phamlp/sass/SassFile.php on line 80
+[05-Mar-2014 15:55:52 America/Chicago] PHP Notice:  Undefined variable: BASE_PATH in /home1/pycdorg/public_html/competitions/includes/template.php on line 30
+[05-Mar-2014 15:55:52 America/Chicago] PHP Warning:  dirname() expects parameter 1 to be string, array given in /home1/pycdorg/public_html/competitions/lib/Phamlp/sass/SassFile.php on line 80
+[05-Mar-2014 16:16:15 America/Chicago] PHP Notice:  Undefined variable: CONFIG in /home1/pycdorg/public_html/competitions/views/Session/SessionViews.php on line 12
+[05-Mar-2014 15:17:32 America/Denver] PHP Parse error:  syntax error, unexpected '=', expecting ',' or ';' in /home1/pycdorg/public_html/competitions/includes/common.php on line 3
+[05-Mar-2014 16:18:47 America/Chicago] PHP Notice:  Undefined variable: CONFIG in /home1/pycdorg/public_html/competitions/views/Session/SessionViews.php on line 14
+[05-Mar-2014 15:29:06 America/Denver] PHP Fatal error:  Class 'Views' not found in /home1/pycdorg/public_html/competitions/views/Session/SessionViews.php on line 7
+[05-Mar-2014 15:29:27 America/Denver] PHP Parse error:  syntax error, unexpected '(', expecting ',' or ';' in /home1/pycdorg/public_html/competitions/views/Session/Views.php on line 5
+[05-Mar-2014 15:39:46 America/Denver] PHP Parse error:  syntax error, unexpected 'new' (T_NEW) in /home1/pycdorg/public_html/competitions/views/Session/Views.php on line 5
+[05-Mar-2014 16:39:55 America/Chicago] PHP Fatal error:  Class 'Config' not found in /home1/pycdorg/public_html/competitions/login.php on line 21
+[05-Mar-2014 16:39:57 America/Chicago] PHP Notice:  Undefined variable: CONFIG in /home1/pycdorg/public_html/competitions/views/Session/SessionViews.php on line 13
+[05-Mar-2014 15:40:34 America/Denver] PHP Warning:  require_once(classes/config.php): failed to open stream: No such file or directory in /home1/pycdorg/public_html/competitions/includes/common.php on line 13
+[05-Mar-2014 15:40:34 America/Denver] PHP Fatal error:  require_once(): Failed opening required 'classes/config.php' (include_path='.:/usr/php/54/usr/lib64:/usr/php/54/usr/share/pear') in /home1/pycdorg/public_html/competitions/includes/common.php on line 13
+[05-Mar-2014 16:40:45 America/Chicago] PHP Fatal error:  Using $this when not in object context in /home1/pycdorg/public_html/competitions/includes/classes/Config.php on line 18
+[05-Mar-2014 16:40:47 America/Chicago] PHP Notice:  Undefined variable: CONFIG in /home1/pycdorg/public_html/competitions/views/Session/SessionViews.php on line 13
+[05-Mar-2014 16:41:48 America/Chicago] PHP Notice:  Undefined variable: config in /home1/pycdorg/public_html/competitions/includes/classes/Config.php on line 18
+[05-Mar-2014 16:41:48 America/Chicago] PHP Fatal error:  Uncaught exception 'Exception' with message 'Configuration file is not loaded' in /home1/pycdorg/public_html/competitions/includes/classes/Config.php:19
+Stack trace:
+#0 /home1/pycdorg/public_html/competitions/login.php(21): Config::get('year')
+#1 {main}
+  thrown in /home1/pycdorg/public_html/competitions/includes/classes/Config.php on line 19
+[05-Mar-2014 16:41:50 America/Chicago] PHP Notice:  Undefined variable: CONFIG in /home1/pycdorg/public_html/competitions/views/Session/SessionViews.php on line 13
+[05-Mar-2014 16:42:54 America/Chicago] PHP Notice:  Undefined variable: filepath in /home1/pycdorg/public_html/competitions/includes/classes/Config.php on line 14
+[05-Mar-2014 16:42:54 America/Chicago] PHP Warning:  parse_ini_file(): Filename cannot be empty! in /home1/pycdorg/public_html/competitions/includes/classes/Config.php on line 14
+[05-Mar-2014 16:42:54 America/Chicago] PHP Fatal error:  Uncaught exception 'Exception' with message 'Variable year does not exist in configuration file' in /home1/pycdorg/public_html/competitions/includes/classes/Config.php:22
+Stack trace:
+#0 /home1/pycdorg/public_html/competitions/login.php(21): Config::get('year')
+#1 {main}
+  thrown in /home1/pycdorg/public_html/competitions/includes/classes/Config.php on line 22
+[05-Mar-2014 16:42:57 America/Chicago] PHP Notice:  Undefined variable: CONFIG in /home1/pycdorg/public_html/competitions/views/Session/SessionViews.php on line 13
+[05-Mar-2014 15:44:45 America/Denver] PHP Warning:  parse_ini_file(/home1/pycdorg/public_html/competitions): failed to open stream: No such file or directory in /home1/pycdorg/public_html/competitions/includes/classes/Config.php on line 25
+[05-Mar-2014 16:44:45 America/Chicago] PHP Notice:  Undefined variable: config in /home1/pycdorg/public_html/competitions/includes/classes/Config.php on line 13
+[05-Mar-2014 16:44:45 America/Chicago] PHP Fatal error:  Uncaught exception 'Exception' with message 'Configuration file is not loaded' in /home1/pycdorg/public_html/competitions/includes/classes/Config.php:14
+Stack trace:
+#0 /home1/pycdorg/public_html/competitions/login.php(21): Config::get('year')
+#1 {main}
+  thrown in /home1/pycdorg/public_html/competitions/includes/classes/Config.php on line 14
+[05-Mar-2014 15:44:47 America/Denver] PHP Warning:  parse_ini_file(/home1/pycdorg/public_html/competitions): failed to open stream: No such file or directory in /home1/pycdorg/public_html/competitions/includes/classes/Config.php on line 25
+[05-Mar-2014 16:44:47 America/Chicago] PHP Notice:  Undefined variable: CONFIG in /home1/pycdorg/public_html/competitions/views/Session/SessionViews.php on line 13
+[05-Mar-2014 15:45:45 America/Denver] PHP Warning:  parse_ini_file(/home1/pycdorg/public_html/competitionsconfig.ini): failed to open stream: No such file or directory in /home1/pycdorg/public_html/competitions/includes/classes/Config.php on line 25
+[05-Mar-2014 16:45:45 America/Chicago] PHP Notice:  Undefined variable: config in /home1/pycdorg/public_html/competitions/includes/classes/Config.php on line 13
+[05-Mar-2014 16:45:45 America/Chicago] PHP Fatal error:  Uncaught exception 'Exception' with message 'Configuration file is not loaded' in /home1/pycdorg/public_html/competitions/includes/classes/Config.php:14
+Stack trace:
+#0 /home1/pycdorg/public_html/competitions/login.php(21): Config::get('year')
+#1 {main}
+  thrown in /home1/pycdorg/public_html/competitions/includes/classes/Config.php on line 14
+[05-Mar-2014 15:45:48 America/Denver] PHP Warning:  parse_ini_file(/home1/pycdorg/public_html/competitionsconfig.ini): failed to open stream: No such file or directory in /home1/pycdorg/public_html/competitions/includes/classes/Config.php on line 25
+[05-Mar-2014 16:45:48 America/Chicago] PHP Notice:  Undefined variable: CONFIG in /home1/pycdorg/public_html/competitions/views/Session/SessionViews.php on line 13
+[05-Mar-2014 16:45:53 America/Chicago] PHP Notice:  Undefined variable: config in /home1/pycdorg/public_html/competitions/includes/classes/Config.php on line 13
+[05-Mar-2014 16:45:53 America/Chicago] PHP Fatal error:  Uncaught exception 'Exception' with message 'Configuration file is not loaded' in /home1/pycdorg/public_html/competitions/includes/classes/Config.php:14
+Stack trace:
+#0 /home1/pycdorg/public_html/competitions/login.php(21): Config::get('year')
+#1 {main}
+  thrown in /home1/pycdorg/public_html/competitions/includes/classes/Config.php on line 14
+[05-Mar-2014 16:45:56 America/Chicago] PHP Notice:  Undefined variable: CONFIG in /home1/pycdorg/public_html/competitions/views/Session/SessionViews.php on line 13
+[05-Mar-2014 16:46:13 America/Chicago] PHP Fatal error:  Uncaught exception 'Exception' with message 'Variable year does not exist in configuration file' in /home1/pycdorg/public_html/competitions/includes/classes/Config.php:20
+Stack trace:
+#0 /home1/pycdorg/public_html/competitions/login.php(21): Config::get('year')
+#1 {main}
+  thrown in /home1/pycdorg/public_html/competitions/includes/classes/Config.php on line 20
+[05-Mar-2014 16:46:15 America/Chicago] PHP Notice:  Undefined variable: CONFIG in /home1/pycdorg/public_html/competitions/views/Session/SessionViews.php on line 13
+[05-Mar-2014 16:47:26 America/Chicago] PHP Notice:  Undefined variable: CONFIG in /home1/pycdorg/public_html/competitions/views/Session/SessionViews.php on line 13
+[05-Mar-2014 15:48:53 America/Denver] PHP Warning:  The use statement with non-compound name 'Config' has no effect in /home1/pycdorg/public_html/competitions/login.php on line 3
+[05-Mar-2014 16:48:53 America/Chicago] PHP Notice:  Use of undefined constant year - assumed 'year' in /home1/pycdorg/public_html/competitions/login.php on line 24
+[05-Mar-2014 16:48:53 America/Chicago] PHP Fatal error:  Uncaught exception 'Exception' with message 'Variable year does not exist in configuration file' in /home1/pycdorg/public_html/competitions/includes/classes/Config.php:20
+Stack trace:
+#0 /home1/pycdorg/public_html/competitions/login.php(24): Config::get('year')
+#1 {main}
+  thrown in /home1/pycdorg/public_html/competitions/includes/classes/Config.php on line 20
+[05-Mar-2014 16:48:55 America/Chicago] PHP Notice:  Undefined variable: CONFIG in /home1/pycdorg/public_html/competitions/views/Session/SessionViews.php on line 13
+[05-Mar-2014 16:58:15 America/Chicago] PHP Fatal error:  Uncaught exception 'Exception' with message 'Variable year does not exist in configuration file' in /home1/pycdorg/public_html/competitions/includes/classes/Config.php:20
+Stack trace:
+#0 /home1/pycdorg/public_html/competitions/login.php(22): Config::get('year')
+#1 {main}
+  thrown in /home1/pycdorg/public_html/competitions/includes/classes/Config.php on line 20
+[05-Mar-2014 16:58:18 America/Chicago] PHP Notice:  Undefined variable: CONFIG in /home1/pycdorg/public_html/competitions/views/Session/SessionViews.php on line 13
+[05-Mar-2014 16:58:31 America/Chicago] PHP Fatal error:  Uncaught exception 'Exception' with message 'Variable year does not exist in configuration file' in /home1/pycdorg/public_html/competitions/includes/classes/Config.php:20
+Stack trace:
+#0 /home1/pycdorg/public_html/competitions/login.php(22): Config::get('year')
+#1 {main}
+  thrown in /home1/pycdorg/public_html/competitions/includes/classes/Config.php on line 20
+[05-Mar-2014 16:58:33 America/Chicago] PHP Notice:  Undefined variable: CONFIG in /home1/pycdorg/public_html/competitions/views/Session/SessionViews.php on line 13
+[05-Mar-2014 16:58:59 America/Chicago] PHP Fatal error:  Uncaught exception 'Exception' with message 'Variable year does not exist in configuration file' in /home1/pycdorg/public_html/competitions/includes/classes/Config.php:20
+Stack trace:
+#0 /home1/pycdorg/public_html/competitions/login.php(22): Config::get('year')
+#1 {main}
+  thrown in /home1/pycdorg/public_html/competitions/includes/classes/Config.php on line 20
+[05-Mar-2014 16:59:01 America/Chicago] PHP Fatal error:  Uncaught exception 'Exception' with message 'Variable year does not exist in configuration file' in /home1/pycdorg/public_html/competitions/includes/classes/Config.php:20
+Stack trace:
+#0 /home1/pycdorg/public_html/competitions/views/Session/SessionViews.php(13): Config::get('year')
+#1 /home1/pycdorg/public_html/competitions/controllers/SessionController.php(11): SessionViews::renderLoginForm()
+#2 /home1/pycdorg/public_html/competitions/controller.php(9): SessionController::processPost(Array)
+#3 {main}
+  thrown in /home1/pycdorg/public_html/competitions/includes/classes/Config.php on line 20
+[05-Mar-2014 16:59:19 America/Chicago] PHP Fatal error:  Uncaught exception 'Exception' with message 'Variable year does not exist in configuration file' in /home1/pycdorg/public_html/competitions/includes/classes/Config.php:20
+Stack trace:
+#0 /home1/pycdorg/public_html/competitions/login.php(22): Config::get('year')
+#1 {main}
+  thrown in /home1/pycdorg/public_html/competitions/includes/classes/Config.php on line 20
+[05-Mar-2014 16:59:22 America/Chicago] PHP Fatal error:  Uncaught exception 'Exception' with message 'Variable year does not exist in configuration file' in /home1/pycdorg/public_html/competitions/includes/classes/Config.php:20
+Stack trace:
+#0 /home1/pycdorg/public_html/competitions/views/Session/SessionViews.php(13): Config::get('year')
+#1 /home1/pycdorg/public_html/competitions/controllers/SessionController.php(11): SessionViews::renderLoginForm()
+#2 /home1/pycdorg/public_html/competitions/controller.php(9): SessionController::processPost(Array)
+#3 {main}
+  thrown in /home1/pycdorg/public_html/competitions/includes/classes/Config.php on line 20
+[05-Mar-2014 16:59:49 America/Chicago] PHP Fatal error:  Uncaught exception 'Exception' with message 'Variable year does not exist in configuration file' in /home1/pycdorg/public_html/competitions/includes/classes/Config.php:20
+Stack trace:
+#0 /home1/pycdorg/public_html/competitions/views/Session/SessionViews.php(13): Config::get('year')
+#1 /home1/pycdorg/public_html/competitions/controllers/SessionController.php(11): SessionViews::renderLoginForm()
+#2 /home1/pycdorg/public_html/competitions/controller.php(9): SessionController::processPost(Array)
+#3 {main}
+  thrown in /home1/pycdorg/public_html/competitions/includes/classes/Config.php on line 20
+[05-Mar-2014 17:00:16 America/Chicago] PHP Fatal error:  Uncaught exception 'Exception' with message 'Variable year does not exist in configuration file' in /home1/pycdorg/public_html/competitions/includes/classes/Config.php:20
+Stack trace:
+#0 /home1/pycdorg/public_html/competitions/views/Session/SessionViews.php(13): Config::get('year')
+#1 /home1/pycdorg/public_html/competitions/controllers/SessionController.php(11): SessionViews::renderLoginForm()
+#2 /home1/pycdorg/public_html/competitions/controller.php(9): SessionController::processPost(Array)
+#3 {main}
+  thrown in /home1/pycdorg/public_html/competitions/includes/classes/Config.php on line 20
+[05-Mar-2014 18:05:36 America/Chicago] PHP Notice:  Use of undefined constant fieldname - assumed 'fieldname' in /home1/pycdorg/public_html/competitions/views/Views.php on line 14
+[05-Mar-2014 18:06:36 America/Chicago] PHP Notice:  Use of undefined constant fieldname - assumed 'fieldname' in /home1/pycdorg/public_html/competitions/views/Views.php on line 14
+[05-Mar-2014 18:07:26 America/Chicago] PHP Notice:  Use of undefined constant fieldname - assumed 'fieldname' in /home1/pycdorg/public_html/competitions/views/Views.php on line 14
+[05-Mar-2014 18:10:50 America/Chicago] PHP Notice:  Use of undefined constant fieldname - assumed 'fieldname' in /home1/pycdorg/public_html/competitions/views/Views.php on line 14
+[05-Mar-2014 18:10:52 America/Chicago] PHP Notice:  Undefined index: controller in /home1/pycdorg/public_html/competitions/controller.php on line 6
+[05-Mar-2014 18:12:44 America/Chicago] PHP Notice:  Use of undefined constant fieldname - assumed 'fieldname' in /home1/pycdorg/public_html/competitions/views/Views.php on line 14
+[05-Mar-2014 18:12:51 America/Chicago] PHP Notice:  Undefined index: controller in /home1/pycdorg/public_html/competitions/controller.php on line 6
+[05-Mar-2014 18:13:57 America/Chicago] PHP Notice:  Undefined index: controller in /home1/pycdorg/public_html/competitions/controller.php on line 6
+[05-Mar-2014 18:14:00 America/Chicago] PHP Notice:  Undefined index: controller in /home1/pycdorg/public_html/competitions/controller.php on line 6
+[05-Mar-2014 18:15:44 America/Chicago] PHP Notice:  Undefined index: controller in /home1/pycdorg/public_html/competitions/controller.php on line 6
+[05-Mar-2014 18:15:57 America/Chicago] PHP Notice:  Undefined index: controller in /home1/pycdorg/public_html/competitions/controller.php on line 6
+[05-Mar-2014 17:29:30 America/Denver] PHP Warning:  require_once(common.php): failed to open stream: No such file or directory in /home1/pycdorg/public_html/competitions/includes/classes/Template.php on line 6
+[05-Mar-2014 17:29:30 America/Denver] PHP Fatal error:  require_once(): Failed opening required 'common.php' (include_path='.:/usr/php/54/usr/lib64:/usr/php/54/usr/share/pear') in /home1/pycdorg/public_html/competitions/includes/classes/Template.php on line 6
+[05-Mar-2014 18:37:30 America/Chicago] PHP Warning:  call_user_func() expects parameter 1 to be a valid callback, function 'checkLogin' not found or invalid function name in /home1/pycdorg/public_html/competitions/controllers/SessionController.php on line 20
+[05-Mar-2014 18:48:26 America/Chicago] PHP Warning:  call_user_func() expects parameter 1 to be a valid callback, class 'Session' does not have a method 'processRequest' in /home1/pycdorg/public_html/competitions/controller.php on line 16
+[05-Mar-2014 18:04:58 America/Denver] PHP Warning:  require_once(/home1/pycdorg/public_html/competitions/controllers/SessionController.php): failed to open stream: No such file or directory in /home1/pycdorg/public_html/competitions/includes/common.php on line 26
+[05-Mar-2014 18:04:58 America/Denver] PHP Fatal error:  require_once(): Failed opening required '/home1/pycdorg/public_html/competitions/controllers/SessionController.php' (include_path='.:/usr/php/54/usr/lib64:/usr/php/54/usr/share/pear') in /home1/pycdorg/public_html/competitions/includes/common.php on line 26
+[05-Mar-2014 18:05:24 America/Denver] PHP Warning:  require_once(/home1/pycdorg/public_html/competitions/controllers/Session.php): failed to open stream: No such file or directory in /home1/pycdorg/public_html/competitions/includes/common.php on line 26
+[05-Mar-2014 18:05:24 America/Denver] PHP Fatal error:  require_once(): Failed opening required '/home1/pycdorg/public_html/competitions/controllers/Session.php' (include_path='.:/usr/php/54/usr/lib64:/usr/php/54/usr/share/pear') in /home1/pycdorg/public_html/competitions/includes/common.php on line 26
+[05-Mar-2014 19:05:52 America/Chicago] PHP Warning:  call_user_func() expects parameter 1 to be a valid callback, class 'Session' does not have a method 'initialize' in /home1/pycdorg/public_html/competitions/includes/controllers/Session.php on line 16
+[05-Mar-2014 19:21:21 America/Chicago] PHP Fatal error:  Class 'User' not found in /home1/pycdorg/public_html/competitions/login.php on line 21
+[05-Mar-2014 19:37:43 America/Chicago] PHP Warning:  PDOStatement::fetch() expects parameter 2 to be long, string given in /home1/pycdorg/public_html/competitions/includes/models/User.php on line 25
+[05-Mar-2014 19:38:14 America/Chicago] PHP Warning:  Missing argument 1 for User::__construct() in /home1/pycdorg/public_html/competitions/includes/models/User.php on line 18
+[05-Mar-2014 18:38:48 America/Denver] PHP Fatal error:  Cannot re-assign $this in /home1/pycdorg/public_html/competitions/includes/models/User.php on line 27
+[05-Mar-2014 20:01:20 America/Chicago] PHP Fatal error:  Cannot access private property User::$username in /home1/pycdorg/public_html/competitions/login.php on line 23
+[05-Mar-2014 20:23:15 America/Chicago] PHP Warning:  addcslashes() expects exactly 2 parameters, 1 given in /home1/pycdorg/public_html/competitions/includes/helpers/Render.php on line 21
+[06-Mar-2014 00:22:10 America/Chicago] PHP Notice:  Undefined variable: sass in /home1/pycdorg/public_html/competitions/login.php on line 8
+[06-Mar-2014 00:22:10 America/Chicago] PHP Fatal error:  Call to a member function toCss() on a non-object in /home1/pycdorg/public_html/competitions/login.php on line 8
+[06-Mar-2014 00:54:09 America/Chicago] PHP Notice:  Undefined offset: 2 in /home1/pycdorg/public_html/competitions/lib/Phamlp/sass/script/SassScriptParser.php on line 114
+[06-Mar-2014 00:54:09 America/Chicago] PHP Fatal error:  Uncaught exception 'SassScriptOperationException' with message 'Undefined operation "op_unary_concat" for SassNumber: /home1/pycdorg/public_html/competitions/css/login.scss::58
+Source: top:7px  ' in /home1/pycdorg/public_html/competitions/lib/Phamlp/sass/script/SassScriptOperation.php:139
+Stack trace:
+#0 /home1/pycdorg/public_html/competitions/lib/Phamlp/sass/script/SassScriptParser.php(89): SassScriptOperation->perform(Array)
+#1 /home1/pycdorg/public_html/competitions/lib/Phamlp/sass/tree/SassNode.php(297): SassScriptParser->evaluate('7px  ', Object(SassContext), 2)
+#2 /home1/pycdorg/public_html/competitions/lib/Phamlp/sass/tree/SassPropertyNode.php(102): SassNode->evaluate('7px  ', Object(SassContext), 2)
+#3 /home1/pycdorg/public_html/competitions/lib/Phamlp/sass/tree/SassNode.php(329): SassPropertyNode->parse(Object(SassContext))
+#4 /home1/pycdorg/public_html/competitions/lib/Phamlp/sass/tree/SassRuleNode.php(87): SassNode->parseChildren(Object(SassContext))
+#5 /home1/pycdorg/public_html/competitions/lib/P in /home1/pycdorg/public_html/competitions/lib/Phamlp/sass/script/SassScriptOperation.php on line 139
+[06-Mar-2014 12:30:30 America/Denver] PHP Fatal error:  Class 'Controller' not found in /home1/pycdorg/public_html/competitions/includes/controllers/Session.php on line 6
+[06-Mar-2014 13:31:26 America/Chicago] PHP Notice:  Undefined index: render in /home1/pycdorg/public_html/competitions/includes/controllers/Session.php on line 64
+[06-Mar-2014 13:31:26 America/Chicago] PHP Warning:  call_user_func() expects parameter 1 to be a valid callback, class 'Session' does not have a method 'loginForm' in /home1/pycdorg/public_html/competitions/includes/controllers/Session.php on line 65
+[06-Mar-2014 13:31:52 America/Chicago] PHP Notice:  Undefined index: render in /home1/pycdorg/public_html/competitions/includes/controllers/Session.php on line 64
+[06-Mar-2014 13:31:52 America/Chicago] PHP Warning:  call_user_func() expects parameter 1 to be a valid callback, class 'Session' does not have a method 'loginForm' in /home1/pycdorg/public_html/competitions/includes/controllers/Session.php on line 65
+[06-Mar-2014 13:32:40 America/Chicago] PHP Notice:  Undefined index: render in /home1/pycdorg/public_html/competitions/includes/controllers/Session.php on line 64
+[06-Mar-2014 13:32:40 America/Chicago] PHP Warning:  call_user_func() expects parameter 1 to be a valid callback, class 'Session' does not have a method 'LoginForm' in /home1/pycdorg/public_html/competitions/includes/controllers/Session.php on line 65
+[06-Mar-2014 13:32:44 America/Chicago] PHP Notice:  Undefined index: render in /home1/pycdorg/public_html/competitions/includes/controllers/Session.php on line 64
+[06-Mar-2014 13:32:44 America/Chicago] PHP Warning:  call_user_func() expects parameter 1 to be a valid callback, class 'Session' does not have a method 'LoginForm' in /home1/pycdorg/public_html/competitions/includes/controllers/Session.php on line 65
+[06-Mar-2014 13:33:25 America/Chicago] PHP Notice:  Undefined index: render in /home1/pycdorg/public_html/competitions/includes/controllers/Session.php on line 64
+[06-Mar-2014 13:33:25 America/Chicago] PHP Warning:  call_user_func() expects parameter 1 to be a valid callback, class 'Session' does not have a method 'LoginForm' in /home1/pycdorg/public_html/competitions/includes/controllers/Session.php on line 65
+[06-Mar-2014 13:36:39 America/Chicago] PHP Notice:  Undefined index: render in /home1/pycdorg/public_html/competitions/includes/controllers/Session.php on line 65
+[06-Mar-2014 13:36:39 America/Chicago] PHP Warning:  call_user_func() expects parameter 1 to be a valid callback, class 'Session' does not have a method 'LoginForm' in /home1/pycdorg/public_html/competitions/includes/controllers/Session.php on line 66
+[06-Mar-2014 13:37:05 America/Chicago] PHP Notice:  Undefined index: render in /home1/pycdorg/public_html/competitions/includes/controllers/Session.php on line 64
+[06-Mar-2014 13:37:05 America/Chicago] PHP Warning:  call_user_func() expects parameter 1 to be a valid callback, class 'Session' does not have a method 'LoginForm' in /home1/pycdorg/public_html/competitions/includes/controllers/Session.php on line 67
+[06-Mar-2014 13:37:43 America/Chicago] PHP Notice:  Undefined index: render in /home1/pycdorg/public_html/competitions/includes/controllers/Session.php on line 64
+[06-Mar-2014 13:37:43 America/Chicago] PHP Warning:  call_user_func() expects parameter 1 to be a valid callback, class 'Session' does not have a method 'LoginForm' in /home1/pycdorg/public_html/competitions/includes/controllers/Session.php on line 66
+[06-Mar-2014 13:38:24 America/Chicago] PHP Notice:  Undefined index: render in /home1/pycdorg/public_html/competitions/includes/controllers/Session.php on line 65
+[06-Mar-2014 13:38:24 America/Chicago] PHP Warning:  call_user_func() expects parameter 1 to be a valid callback, class 'Session' does not have a method 'LoginForm' in /home1/pycdorg/public_html/competitions/includes/controllers/Session.php on line 67
+[06-Mar-2014 22:23:25 America/Chicago] PHP Fatal error:  Access to undeclared static property: User::$PASSWORD in /home1/pycdorg/public_html/competitions/includes/controllers/Session.php on line 22
+[06-Mar-2014 21:42:06 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home1/pycdorg/public_html/competitions/includes/common.php on line 11
+[06-Mar-2014 22:42:06 America/Chicago] PHP Fatal error:  Call to undefined method Template::getDocType() in /home1/pycdorg/public_html/competitions/index.php on line 5
+[06-Mar-2014 22:43:27 America/Chicago] PHP Fatal error:  Call to undefined method Template::getDocType() in /home1/pycdorg/public_html/competitions/index.php on line 4
+[06-Mar-2014 22:44:01 America/Chicago] PHP Notice:  Undefined variable: CONFIG in /home1/pycdorg/public_html/competitions/index.php on line 12
+[06-Mar-2014 21:46:46 America/Denver] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home1/pycdorg/public_html/competitions/login.php on line 2
+[06-Mar-2014 23:34:16 America/Chicago] PHP Warning:  call_user_func() expects parameter 1 to be a valid callback, class 'Session' does not have a method 'resetPassword' in /home1/pycdorg/public_html/competitions/includes/controllers/Session.php on line 78
+[06-Mar-2014 23:35:56 America/Chicago] PHP Warning:  call_user_func() expects parameter 1 to be a valid callback, class 'Session' does not have a method 'resetPassword' in /home1/pycdorg/public_html/competitions/includes/controllers/Session.php on line 78
+[06-Mar-2014 23:50:43 America/Chicago] PHP Fatal error:  Uncaught exception 'SassContextException' with message 'Undefined Variable: formsWidth: /home1/pycdorg/public_html/competitions/css/main.scss::14
+Source: width: $formsWidth' in /home1/pycdorg/public_html/competitions/lib/Phamlp/sass/tree/SassContext.php:87
+Stack trace:
+#0 /home1/pycdorg/public_html/competitions/lib/Phamlp/sass/script/SassScriptVariable.php(43): SassContext->getVariable('formsWidth')
+#1 /home1/pycdorg/public_html/competitions/lib/Phamlp/sass/script/SassScriptParser.php(122): SassScriptVariable->evaluate(Object(SassContext))
+#2 /home1/pycdorg/public_html/competitions/lib/Phamlp/sass/script/SassScriptParser.php(71): SassScriptParser->parse(' $formsWidth', Object(SassContext), 2)
+#3 /home1/pycdorg/public_html/competitions/lib/Phamlp/sass/tree/SassNode.php(297): SassScriptParser->evaluate(' $formsWidth', Object(SassContext), 2)
+#4 /home1/pycdorg/public_html/competitions/lib/Phamlp/sass/tree/SassPropertyNode.php(102): SassNode->evaluate(' $formsWidth', Object(SassContext), 2)
+#5 /home1/pycdorg/publ in /home1/pycdorg/public_html/competitions/lib/Phamlp/sass/tree/SassContext.php on line 87
+[07-Mar-2014 00:19:39 America/Chicago] PHP Warning:  call_user_func() expects parameter 1 to be a valid callback, class 'Controller' does not have a method 'render' in /home1/pycdorg/public_html/competitions/includes/controllers/Controller.php on line 63
+[07-Mar-2014 00:20:26 America/Chicago] PHP Warning:  call_user_func() expects parameter 1 to be a valid callback, class 'Controller' does not have a method 'render' in /home1/pycdorg/public_html/competitions/includes/controllers/Controller.php on line 63
+[07-Mar-2014 00:26:47 America/Chicago] PHP Warning:  call_user_func() expects parameter 1 to be a valid callback, class 'loginform' not found in /home1/pycdorg/public_html/competitions/controller.php on line 13
+[07-Mar-2014 00:27:04 America/Chicago] PHP Warning:  call_user_func() expects parameter 1 to be a valid callback, class 'loginform' not found in /home1/pycdorg/public_html/competitions/controller.php on line 13
+[07-Mar-2014 00:30:54 America/Chicago] PHP Warning:  call_user_func() expects parameter 1 to be a valid callback, class 'loginform' not found in /home1/pycdorg/public_html/competitions/controller.php on line 13
+[07-Mar-2014 00:31:23 America/Chicago] PHP Warning:  call_user_func() expects parameter 1 to be a valid callback, class 'loginform' not found in /home1/pycdorg/public_html/competitions/controller.php on line 13
+[07-Mar-2014 00:31:52 America/Chicago] PHP Warning:  call_user_func() expects parameter 1 to be a valid callback, class 'loginform' not found in /home1/pycdorg/public_html/competitions/controller.php on line 13
+[07-Mar-2014 14:44:56 America/Chicago] PHP Warning:  call_user_func() expects parameter 1 to be a valid callback, class 'Render' does not have a method 'processRequest' in /home1/pycdorg/public_html/competitions/controller.php on line 13
+[07-Mar-2014 14:45:08 America/Chicago] PHP Warning:  call_user_func() expects parameter 1 to be a valid callback, class 'Render' does not have a method 'processRequest' in /home1/pycdorg/public_html/competitions/controller.php on line 13
+[07-Mar-2014 14:46:01 America/Chicago] PHP Warning:  call_user_func() expects parameter 1 to be a valid callback, class 'Render' does not have a method 'render' in /home1/pycdorg/public_html/competitions/includes/helpers/Render.php on line 89
+[07-Mar-2014 13:47:01 America/Denver] PHP Fatal error:  Constructor Render::render() cannot be static in /home1/pycdorg/public_html/competitions/includes/helpers/Render.php on line 110
+[07-Mar-2014 16:09:38 America/Chicago] PHP Fatal error:  Uncaught exception 'SassNumberException' with message 'Number must be a number: /home1/pycdorg/public_html/competitions/css/main.scss::38
+Source: height: $mainHeight - 2*pad' in /home1/pycdorg/public_html/competitions/lib/Phamlp/sass/script/literals/SassNumber.php:163
+Stack trace:
+#0 /home1/pycdorg/public_html/competitions/lib/Phamlp/sass/script/SassScriptOperation.php(136): SassNumber->op_times(Object(SassString))
+#1 /home1/pycdorg/public_html/competitions/lib/Phamlp/sass/script/SassScriptParser.php(89): SassScriptOperation->perform(Array)
+#2 /home1/pycdorg/public_html/competitions/lib/Phamlp/sass/tree/SassNode.php(297): SassScriptParser->evaluate(' $mainHeight - ...', Object(SassContext), 2)
+#3 /home1/pycdorg/public_html/competitions/lib/Phamlp/sass/tree/SassPropertyNode.php(102): SassNode->evaluate(' $mainHeight - ...', Object(SassContext), 2)
+#4 /home1/pycdorg/public_html/competitions/lib/Phamlp/sass/tree/SassNode.php(329): SassPropertyNode->parse(Object(SassContext))
+#5 /home1/pycdorg/public_html/competi in /home1/pycdorg/public_html/competitions/lib/Phamlp/sass/script/literals/SassNumber.php on line 163
+[07-Mar-2014 16:10:24 America/Chicago] PHP Fatal error:  Uncaught exception 'SassNumberException' with message 'Invalid CSS units (px * px): /home1/pycdorg/public_html/competitions/css/main.scss::38
+Source: height: $mainHeight - *$pad' in /home1/pycdorg/public_html/competitions/lib/Phamlp/sass/script/literals/SassNumber.php:488
+Stack trace:
+#0 /home1/pycdorg/public_html/competitions/lib/Phamlp/sass/tree/SassPropertyNode.php(102): SassNumber->toString()
+#1 /home1/pycdorg/public_html/competitions/lib/Phamlp/sass/tree/SassNode.php(329): SassPropertyNode->parse(Object(SassContext))
+#2 /home1/pycdorg/public_html/competitions/lib/Phamlp/sass/tree/SassRuleNode.php(87): SassNode->parseChildren(Object(SassContext))
+#3 /home1/pycdorg/public_html/competitions/lib/Phamlp/sass/tree/SassNode.php(329): SassRuleNode->parse(Object(SassContext))
+#4 /home1/pycdorg/public_html/competitions/lib/Phamlp/sass/tree/SassRootNode.php(66): SassNode->parseChildren(Object(SassContext))
+#5 /home1/pycdorg/public_html/competitions/lib/Phamlp/sass/tree/SassRootNode.php(75): SassRootNode->parse(Obje in /home1/pycdorg/public_html/competitions/lib/Phamlp/sass/script/literals/SassNumber.php on line 488
+[07-Mar-2014 16:29:56 America/Chicago] PHP Notice:  Session::isSessionAdmin(): The script tried to execute a method or access a property of an incomplete object. Please ensure that the class definition &quot;User&quot; of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide a __autoload() function to load the class definition  in /home1/pycdorg/public_html/competitions/includes/controllers/Session.php on line 72
+[07-Mar-2014 16:30:40 America/Chicago] PHP Notice:  Undefined variable: isAdmin in /home1/pycdorg/public_html/competitions/includes/controllers/Session.php on line 72
+[07-Mar-2014 16:30:40 America/Chicago] PHP Notice:  Session::isSessionAdmin(): The script tried to execute a method or access a property of an incomplete object. Please ensure that the class definition &quot;User&quot; of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide a __autoload() function to load the class definition  in /home1/pycdorg/public_html/competitions/includes/controllers/Session.php on line 72
+[07-Mar-2014 16:31:05 America/Chicago] PHP Notice:  Undefined variable: isAdmin in /home1/pycdorg/public_html/competitions/includes/controllers/Session.php on line 73
+[07-Mar-2014 16:31:05 America/Chicago] PHP Notice:  Session::isSessionAdmin(): The script tried to execute a method or access a property of an incomplete object. Please ensure that the class definition &quot;User&quot; of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide a __autoload() function to load the class definition  in /home1/pycdorg/public_html/competitions/includes/controllers/Session.php on line 73
+[07-Mar-2014 16:33:06 America/Chicago] PHP Notice:  Undefined variable: isAdmin in /home1/pycdorg/public_html/competitions/includes/controllers/Session.php on line 73
+[07-Mar-2014 16:33:06 America/Chicago] PHP Notice:  Session::isSessionAdmin(): The script tried to execute a method or access a property of an incomplete object. Please ensure that the class definition &quot;User&quot; of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide a __autoload() function to load the class definition  in /home1/pycdorg/public_html/competitions/includes/controllers/Session.php on line 73
+[07-Mar-2014 16:35:03 America/Chicago] PHP Fatal error:  Session::isSessionAdmin(): The script tried to execute a method or access a property of an incomplete object. Please ensure that the class definition &quot;User&quot; of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide a __autoload() function to load the class definition  in /home1/pycdorg/public_html/competitions/includes/controllers/Session.php on line 72
+[07-Mar-2014 20:47:23 America/Chicago] PHP Fatal error:  Class 'SportsEvent' not found in /home1/pycdorg/public_html/competitions/includes/controllers/Controller.php on line 166
+[08-Mar-2014 01:24:58 America/Chicago] PHP Fatal error:  Class 'Church' not found in /home1/pycdorg/public_html/competitions/test.php on line 18
+[08-Mar-2014 00:30:45 America/Denver] PHP Parse error:  syntax error, unexpected 'getName' (T_STRING), expecting variable (T_VARIABLE) in /home1/pycdorg/public_html/competitions/includes/models/Church.php on line 13
+[08-Mar-2014 00:30:46 America/Denver] PHP Parse error:  syntax error, unexpected 'getName' (T_STRING), expecting variable (T_VARIABLE) in /home1/pycdorg/public_html/competitions/includes/models/Church.php on line 13
+[08-Mar-2014 01:47:35 America/Chicago] PHP Notice:  Undefined index: user in /home1/pycdorg/public_html/competitions/includes/controllers/Session.php on line 80
+[08-Mar-2014 01:47:35 America/Chicago] PHP Fatal error:  Call to a member function getIsAdmin() on a non-object in /home1/pycdorg/public_html/competitions/includes/controllers/Session.php on line 81
+[08-Mar-2014 01:48:28 America/Chicago] PHP Notice:  Undefined index: church in /home1/pycdorg/public_html/competitions/includes/helpers/Template.php on line 39
+[08-Mar-2014 01:48:28 America/Chicago] PHP Fatal error:  Call to a member function getName() on a non-object in /home1/pycdorg/public_html/competitions/includes/helpers/Template.php on line 39
+[11-Mar-2014 13:10:24 America/Denver] PHP Fatal error:  Can't use function return value in write context in /home1/pycdorg/public_html/competitions/includes/controllers/Controller.php on line 63
+[11-Mar-2014 13:12:29 America/Denver] PHP Fatal error:  Can't use function return value in write context in /home1/pycdorg/public_html/competitions/includes/controllers/Controller.php on line 63
+[11-Mar-2014 13:13:49 America/Denver] PHP Fatal error:  Can't use function return value in write context in /home1/pycdorg/public_html/competitions/includes/controllers/Controller.php on line 63
+[11-Mar-2014 13:13:52 America/Denver] PHP Fatal error:  Can't use function return value in write context in /home1/pycdorg/public_html/competitions/includes/controllers/Controller.php on line 63
+[11-Mar-2014 14:25:03 America/Chicago] PHP Fatal error:  Class 'SportsController' not found in /home1/pycdorg/public_html/competitions/includes/controllers/Controller.php on line 165
+[11-Mar-2014 14:25:28 America/Chicago] PHP Fatal error:  Access to undeclared static property: SportsEvent::$ID in /home1/pycdorg/public_html/competitions/includes/controllers/Controller.php on line 167
+[11-Mar-2014 14:28:52 America/Chicago] PHP Warning:  call_user_func() expects parameter 1 to be a valid callback, class 'SportsController' does not have a method 'processRequest' in /home1/pycdorg/public_html/competitions/controller.php on line 13
+[11-Mar-2014 14:29:23 America/Chicago] PHP Fatal error:  Access to undeclared static property: SportsEvent::$ID in /home1/pycdorg/public_html/competitions/includes/controllers/Controller.php on line 167
+[11-Mar-2014 14:29:28 America/Chicago] PHP Fatal error:  Access to undeclared static property: SportsEvent::$ID in /home1/pycdorg/public_html/competitions/includes/controllers/Controller.php on line 167
+[11-Mar-2014 14:31:00 America/Chicago] PHP Warning:  call_user_func() expects parameter 1 to be a valid callback, class 'SportsController' does not have a method 'render' in /home1/pycdorg/public_html/competitions/includes/controllers/SportsController.php on line 24
+[11-Mar-2014 14:31:30 America/Chicago] PHP Fatal error:  Access to undeclared static property: SportsEvent::$ID in /home1/pycdorg/public_html/competitions/includes/controllers/Controller.php on line 167
+[11-Mar-2014 14:31:47 America/Chicago] PHP Warning:  call_user_func() expects parameter 1 to be a valid callback, class 'SportsController' does not have a method 'renderSubmenuSports' in /home1/pycdorg/public_html/competitions/includes/controllers/SportsController.php on line 37
+[11-Mar-2014 14:32:15 America/Chicago] PHP Fatal error:  Access to undeclared static property: SportsEvent::$ID in /home1/pycdorg/public_html/competitions/includes/controllers/SportsController.php on line 64
+[11-Mar-2014 14:34:16 America/Chicago] PHP Fatal error:  Access to undeclared static property: SportsEvent::$ID in /home1/pycdorg/public_html/competitions/includes/controllers/SportsController.php on line 64
+[11-Mar-2014 14:35:24 America/Chicago] PHP Fatal error:  Access to undeclared static property: SportsEvent::$ID in /home1/pycdorg/public_html/competitions/includes/controllers/SportsController.php on line 64
+[11-Mar-2014 14:36:51 America/Chicago] PHP Fatal error:  Access to undeclared static property: SportsEvent::$ID in /home1/pycdorg/public_html/competitions/includes/controllers/SportsController.php on line 64
+[11-Mar-2014 14:57:18 America/Chicago] PHP Notice:  Undefined variable: value in /home1/pycdorg/public_html/competitions/includes/controllers/SportsController.php on line 64
+[11-Mar-2014 15:05:25 America/Chicago] PHP Fatal error:  Cannot access private property SportsEvent::$id in /home1/pycdorg/public_html/competitions/includes/controllers/SportsController.php on line 51
+[11-Mar-2014 15:08:05 America/Chicago] PHP Fatal error:  Cannot access private property SportsEvent::$id in /home1/pycdorg/public_html/competitions/includes/controllers/SportsController.php on line 51
+[11-Mar-2014 15:08:29 America/Chicago] PHP Fatal error:  Cannot access private property SportsEvent::$id in /home1/pycdorg/public_html/competitions/includes/controllers/SportsController.php on line 51
+[11-Mar-2014 15:08:33 America/Chicago] PHP Fatal error:  Cannot access private property SportsEvent::$id in /home1/pycdorg/public_html/competitions/includes/controllers/SportsController.php on line 51
+[11-Mar-2014 15:09:29 America/Chicago] PHP Fatal error:  Cannot access private property SportsEvent::$id in /home1/pycdorg/public_html/competitions/includes/controllers/SportsController.php on line 51
+[11-Mar-2014 15:10:37 America/Chicago] PHP Fatal error:  Cannot access private property SportsEvent::$id in /home1/pycdorg/public_html/competitions/includes/controllers/SportsController.php on line 51
+[11-Mar-2014 15:11:23 America/Chicago] PHP Catchable fatal error:  Object of class SportsEvent could not be converted to string in /home1/pycdorg/public_html/competitions/includes/controllers/SportsController.php on line 51
+[11-Mar-2014 15:13:38 America/Chicago] PHP Warning:  call_user_func() expects parameter 1 to be a valid callback, class 'SportsController' does not have a method 'renderRoster' in /home1/pycdorg/public_html/competitions/includes/controllers/SportsController.php on line 37
+[11-Mar-2014 22:23:40 America/Chicago] PHP Notice:  Undefined property: PDOStatement::$query in /home1/pycdorg/public_html/competitions/includes/models/SportsEvent.php on line 41
+[11-Mar-2014 22:25:48 America/Chicago] PHP Notice:  Undefined property: PDOStatement::$query in /home1/pycdorg/public_html/competitions/includes/models/SportsEvent.php on line 41
+[11-Mar-2014 22:37:35 America/Chicago] PHP Fatal error:  Call to a member function getId() on a non-object in /home1/pycdorg/public_html/competitions/includes/models/SportsEvent.php on line 33
+[14-Mar-2014 03:27:53 America/Chicago] PHP Warning:  call_user_func() expects parameter 1 to be a valid callback, class 'SportsController' does not have a method 'renderPlayersListAndForm' in /home1/pycdorg/public_html/competitions/includes/controllers/SportsController.php on line 38
+[14-Mar-2014 08:56:28 America/Chicago] PHP Notice:  Undefined variable: username in /home1/pycdorg/public_html/competitions/includes/controllers/SportsController.php on line 18
+[14-Mar-2014 09:04:11 America/Chicago] PHP Fatal error:  Call to undefined function is_fullname_valid() in /home1/pycdorg/public_html/competitions/includes/controllers/SportsController.php on line 28
+[14-Mar-2014 09:04:44 America/Chicago] PHP Notice:  Undefined variable: givenName in /home1/pycdorg/public_html/competitions/includes/functions.php on line 18
+[14-Mar-2014 10:13:12 America/Chicago] PHP Catchable fatal error:  Object of class Church could not be converted to string in /home1/pycdorg/public_html/competitions/test.php on line 16
+[14-Mar-2014 13:55:32 America/Chicago] PHP Fatal error:  Call to a member function getAllPlayers() on a non-object in /home1/pycdorg/public_html/competitions/test.php on line 14
+[14-Mar-2014 13:55:47 America/Chicago] PHP Fatal error:  Call to a member function getAllPlayers() on a non-object in /home1/pycdorg/public_html/competitions/test.php on line 14
+[14-Mar-2014 13:55:49 America/Chicago] PHP Fatal error:  Call to a member function getAllPlayers() on a non-object in /home1/pycdorg/public_html/competitions/test.php on line 14
+[14-Mar-2014 13:56:00 America/Chicago] PHP Fatal error:  Call to a member function getAllPlayers() on a non-object in /home1/pycdorg/public_html/competitions/test.php on line 14
+[14-Mar-2014 14:03:24 America/Chicago] PHP Fatal error:  Call to undefined method Church::getNonRosterPlayersByChurch() in /home1/pycdorg/public_html/competitions/test.php on line 15
+[14-Mar-2014 14:03:25 America/Chicago] PHP Fatal error:  Call to undefined method Church::getNonRosterPlayersByChurch() in /home1/pycdorg/public_html/competitions/test.php on line 15
+[14-Mar-2014 14:24:17 America/Chicago] PHP Fatal error:  Call to undefined method Church::getAllPlayers() in /home1/pycdorg/public_html/competitions/includes/controllers/SportsController.php on line 93
+[14-Mar-2014 13:25:44 America/Denver] PHP Parse error:  syntax error, unexpected '(', expecting ',' or ';' in /home1/pycdorg/public_html/competitions/includes/models/SportsEvent.php on line 10
+[14-Mar-2014 14:26:44 America/Chicago] PHP Fatal error:  Call to undefined method Church::getAllPlayers() in /home1/pycdorg/public_html/competitions/includes/controllers/SportsController.php on line 93
+[14-Mar-2014 14:26:48 America/Chicago] PHP Fatal error:  Call to undefined method Church::getAllPlayers() in /home1/pycdorg/public_html/competitions/includes/controllers/SportsController.php on line 93
+[14-Mar-2014 15:50:30 America/Chicago] PHP Warning:  call_user_func() expects parameter 1 to be a valid callback, class 'Controller' does not have a method 'renderLoginForm' in /home1/pycdorg/public_html/competitions/includes/controllers/Controller.php on line 84
+[14-Mar-2014 15:50:32 America/Chicago] PHP Warning:  call_user_func() expects parameter 1 to be a valid callback, class 'Controller' does not have a method 'renderLoginForm' in /home1/pycdorg/public_html/competitions/includes/controllers/Controller.php on line 84
+[14-Mar-2014 15:50:33 America/Chicago] PHP Warning:  call_user_func() expects parameter 1 to be a valid callback, class 'Controller' does not have a method 'renderLoginForm' in /home1/pycdorg/public_html/competitions/includes/controllers/Controller.php on line 84
+[14-Mar-2014 15:50:33 America/Chicago] PHP Warning:  call_user_func() expects parameter 1 to be a valid callback, class 'Controller' does not have a method 'renderLoginForm' in /home1/pycdorg/public_html/competitions/includes/controllers/Controller.php on line 84
+[14-Mar-2014 15:50:34 America/Chicago] PHP Warning:  call_user_func() expects parameter 1 to be a valid callback, class 'Controller' does not have a method 'renderLoginForm' in /home1/pycdorg/public_html/competitions/includes/controllers/Controller.php on line 84
+[14-Mar-2014 15:50:35 America/Chicago] PHP Warning:  call_user_func() expects parameter 1 to be a valid callback, class 'Controller' does not have a method 'renderLoginForm' in /home1/pycdorg/public_html/competitions/includes/controllers/Controller.php on line 84
+[14-Mar-2014 15:50:36 America/Chicago] PHP Warning:  call_user_func() expects parameter 1 to be a valid callback, class 'Controller' does not have a method 'renderLoginForm' in /home1/pycdorg/public_html/competitions/includes/controllers/Controller.php on line 84
+[14-Mar-2014 15:50:37 America/Chicago] PHP Warning:  call_user_func() expects parameter 1 to be a valid callback, class 'Controller' does not have a method 'renderLoginForm' in /home1/pycdorg/public_html/competitions/includes/controllers/Controller.php on line 84
+[14-Mar-2014 15:50:38 America/Chicago] PHP Warning:  call_user_func() expects parameter 1 to be a valid callback, class 'Controller' does not have a method 'renderLoginForm' in /home1/pycdorg/public_html/competitions/includes/controllers/Controller.php on line 84
+[14-Mar-2014 15:50:39 America/Chicago] PHP Warning:  call_user_func() expects parameter 1 to be a valid callback, class 'Controller' does not have a method 'renderLoginForm' in /home1/pycdorg/public_html/competitions/includes/controllers/Controller.php on line 84
+[14-Mar-2014 15:50:40 America/Chicago] PHP Warning:  call_user_func() expects parameter 1 to be a valid callback, class 'Controller' does not have a method 'renderLoginForm' in /home1/pycdorg/public_html/competitions/includes/controllers/Controller.php on line 84
+[14-Mar-2014 15:50:41 America/Chicago] PHP Warning:  call_user_func() expects parameter 1 to be a valid callback, class 'Controller' does not have a method 'renderLoginForm' in /home1/pycdorg/public_html/competitions/includes/controllers/Controller.php on line 84
+[14-Mar-2014 15:50:42 America/Chicago] PHP Warning:  call_user_func() expects parameter 1 to be a valid callback, class 'Controller' does not have a method 'renderLoginForm' in /home1/pycdorg/public_html/competitions/includes/controllers/Controller.php on line 84
+[14-Mar-2014 15:50:43 America/Chicago] PHP Warning:  call_user_func() expects parameter 1 to be a valid callback, class 'Controller' does not have a method 'renderLoginForm' in /home1/pycdorg/public_html/competitions/includes/controllers/Controller.php on line 84
+[14-Mar-2014 15:50:44 America/Chicago] PHP Warning:  call_user_func() expects parameter 1 to be a valid callback, class 'Controller' does not have a method 'renderLoginForm' in /home1/pycdorg/public_html/competitions/includes/controllers/Controller.php on line 84
+[14-Mar-2014 15:50:45 America/Chicago] PHP Warning:  call_user_func() expects parameter 1 to be a valid callback, class 'Controller' does not have a method 'renderLoginForm' in /home1/pycdorg/public_html/competitions/includes/controllers/Controller.php on line 84
+[14-Mar-2014 15:50:46 America/Chicago] PHP Warning:  call_user_func() expects parameter 1 to be a valid callback, class 'Controller' does not have a method 'renderLoginForm' in /home1/pycdorg/public_html/competitions/includes/controllers/Controller.php on line 84
+[14-Mar-2014 15:50:47 America/Chicago] PHP Warning:  call_user_func() expects parameter 1 to be a valid callback, class 'Controller' does not have a method 'renderLoginForm' in /home1/pycdorg/public_html/competitions/includes/controllers/Controller.php on line 84
+[14-Mar-2014 15:50:48 America/Chicago] PHP Warning:  call_user_func() expects parameter 1 to be a valid callback, class 'Controller' does not have a method 'renderLoginForm' in /home1/pycdorg/public_html/competitions/includes/controllers/Controller.php on line 84
+[14-Mar-2014 15:50:49 America/Chicago] PHP Warning:  call_user_func() expects parameter 1 to be a valid callback, class 'Controller' does not have a method 'renderLoginForm' in /home1/pycdorg/public_html/competitions/includes/controllers/Controller.php on line 84
+[14-Mar-2014 15:50:50 America/Chicago] PHP Warning:  call_user_func() expects parameter 1 to be a valid callback, class 'Controller' does not have a method 'renderLoginForm' in /home1/pycdorg/public_html/competitions/includes/controllers/Controller.php on line 84
+[14-Mar-2014 15:50:51 America/Chicago] PHP Warning:  call_user_func() expects parameter 1 to be a valid callback, class 'Controller' does not have a method 'renderLoginForm' in /home1/pycdorg/public_html/competitions/includes/controllers/Controller.php on line 84
+[14-Mar-2014 15:50:52 America/Chicago] PHP Warning:  call_user_func() expects parameter 1 to be a valid callback, class 'Controller' does not have a method 'renderLoginForm' in /home1/pycdorg/public_html/competitions/includes/controllers/Controller.php on line 84
+[14-Mar-2014 15:50:53 America/Chicago] PHP Warning:  call_user_func() expects parameter 1 to be a valid callback, class 'Controller' does not have a method 'renderLoginForm' in /home1/pycdorg/public_html/competitions/includes/controllers/Controller.php on line 84
+[14-Mar-2014 15:50:54 America/Chicago] PHP Warning:  call_user_func() expects parameter 1 to be a valid callback, class 'Controller' does not have a method 'renderLoginForm' in /home1/pycdorg/public_html/competitions/includes/controllers/Controller.php on line 84
+[14-Mar-2014 15:50:55 America/Chicago] PHP Warning:  call_user_func() expects parameter 1 to be a valid callback, class 'Controller' does not have a method 'renderLoginForm' in /home1/pycdorg/public_html/competitions/includes/controllers/Controller.php on line 84
+[14-Mar-2014 15:50:56 America/Chicago] PHP Warning:  call_user_func() expects parameter 1 to be a valid callback, class 'Controller' does not have a method 'renderLoginForm' in /home1/pycdorg/public_html/competitions/includes/controllers/Controller.php on line 84
+[14-Mar-2014 15:50:57 America/Chicago] PHP Warning:  call_user_func() expects parameter 1 to be a valid callback, class 'Controller' does not have a method 'renderLoginForm' in /home1/pycdorg/public_html/competitions/includes/controllers/Controller.php on line 84
+[14-Mar-2014 15:50:58 America/Chicago] PHP Warning:  call_user_func() expects parameter 1 to be a valid callback, class 'Controller' does not have a method 'renderLoginForm' in /home1/pycdorg/public_html/competitions/includes/controllers/Controller.php on line 84
+[14-Mar-2014 15:50:59 America/Chicago] PHP Warning:  call_user_func() expects parameter 1 to be a valid callback, class 'Controller' does not have a method 'renderLoginForm' in /home1/pycdorg/public_html/competitions/includes/controllers/Controller.php on line 84
+[14-Mar-2014 15:50:59 America/Chicago] PHP Warning:  call_user_func() expects parameter 1 to be a valid callback, class 'Controller' does not have a method 'renderLoginForm' in /home1/pycdorg/public_html/competitions/includes/controllers/Controller.php on line 84
+[14-Mar-2014 15:51:00 America/Chicago] PHP Warning:  call_user_func() expects parameter 1 to be a valid callback, class 'Controller' does not have a method 'renderLoginForm' in /home1/pycdorg/public_html/competitions/includes/controllers/Controller.php on line 84
+[14-Mar-2014 15:51:49 America/Chicago] PHP Warning:  call_user_func() expects parameter 1 to be a valid callback, class 'Controller' does not have a method 'renderLoginForm' in /home1/pycdorg/public_html/competitions/includes/controllers/Controller.php on line 84
+[14-Mar-2014 15:51:50 America/Chicago] PHP Warning:  call_user_func() expects parameter 1 to be a valid callback, class 'Controller' does not have a method 'renderLoginForm' in /home1/pycdorg/public_html/competitions/includes/controllers/Controller.php on line 84
+[14-Mar-2014 15:51:51 America/Chicago] PHP Warning:  call_user_func() expects parameter 1 to be a valid callback, class 'Controller' does not have a method 'renderLoginForm' in /home1/pycdorg/public_html/competitions/includes/controllers/Controller.php on line 84
+[14-Mar-2014 15:51:52 America/Chicago] PHP Warning:  call_user_func() expects parameter 1 to be a valid callback, class 'Controller' does not have a method 'renderLoginForm' in /home1/pycdorg/public_html/competitions/includes/controllers/Controller.php on line 84
+[14-Mar-2014 15:51:52 America/Chicago] PHP Warning:  call_user_func() expects parameter 1 to be a valid callback, class 'Controller' does not have a method 'renderLoginForm' in /home1/pycdorg/public_html/competitions/includes/controllers/Controller.php on line 84
+[14-Mar-2014 15:51:53 America/Chicago] PHP Warning:  call_user_func() expects parameter 1 to be a valid callback, class 'Controller' does not have a method 'renderLoginForm' in /home1/pycdorg/public_html/competitions/includes/controllers/Controller.php on line 84
+[14-Mar-2014 15:51:54 America/Chicago] PHP Warning:  call_user_func() expects parameter 1 to be a valid callback, class 'Controller' does not have a method 'renderLoginForm' in /home1/pycdorg/public_html/competitions/includes/controllers/Controller.php on line 84
+[14-Mar-2014 15:51:55 America/Chicago] PHP Warning:  call_user_func() expects parameter 1 to be a valid callback, class 'Controller' does not have a method 'renderLoginForm' in /home1/pycdorg/public_html/competitions/includes/controllers/Controller.php on line 84
+[14-Mar-2014 18:03:40 America/Chicago] PHP Notice:  Undefined variable: message in /home1/pycdorg/public_html/competitions/includes/controllers/Session.php on line 44
+[14-Mar-2014 18:04:43 America/Chicago] PHP Notice:  Undefined variable: message in /home1/pycdorg/public_html/competitions/includes/controllers/Session.php on line 44
+[14-Mar-2014 18:06:33 America/Chicago] PHP Notice:  Undefined variable: message in /home1/pycdorg/public_html/competitions/includes/controllers/Session.php on line 44
+[14-Mar-2014 18:07:17 America/Chicago] PHP Notice:  Undefined variable: message in /home1/pycdorg/public_html/competitions/includes/controllers/Session.php on line 44
+[14-Mar-2014 18:08:44 America/Chicago] PHP Notice:  Undefined variable: message in /home1/pycdorg/public_html/competitions/includes/controllers/Session.php on line 44
+[14-Mar-2014 20:44:51 America/Chicago] PHP Notice:  Undefined variable: sport in /home1/pycdorg/public_html/competitions/includes/controllers/SportsController.php on line 59
+[14-Mar-2014 20:44:51 America/Chicago] PHP Fatal error:  Call to a member function addPlayer() on a non-object in /home1/pycdorg/public_html/competitions/includes/controllers/SportsController.php on line 59
+[14-Mar-2014 20:47:54 America/Chicago] PHP Fatal error:  Call to undefined method Player::getId() in /home1/pycdorg/public_html/competitions/includes/models/SportsEvent.php on line 29
+[15-Mar-2014 04:03:36 America/Chicago] PHP Notice:  Undefined index: church in /home1/pycdorg/public_html/competitions/includes/controllers/Session.php on line 105
+[16-Mar-2014 14:59:01 America/Denver] PHP Notice:  Undefined index: SPT_DOCROOT in /home1/pycdorg/public_html/competitions/includes/common.php on line 6
+[16-Mar-2014 14:59:01 America/Denver] PHP Warning:  require_once(/competitions/includes/functions.php): failed to open stream: No such file or directory in /home1/pycdorg/public_html/competitions/includes/common.php on line 11
+[16-Mar-2014 14:59:01 America/Denver] PHP Fatal error:  require_once(): Failed opening required '/competitions/includes/functions.php' (include_path='.:/usr/php/54/usr/lib64:/usr/php/54/usr/share/pear') in /home1/pycdorg/public_html/competitions/includes/common.php on line 11
+[16-Mar-2014 14:59:13 America/Denver] PHP Notice:  Undefined index: SPT_DOCROOT in /home1/pycdorg/public_html/competitions/includes/common.php on line 6
+[16-Mar-2014 14:59:13 America/Denver] PHP Warning:  require_once(/competitions/includes/functions.php): failed to open stream: No such file or directory in /home1/pycdorg/public_html/competitions/includes/common.php on line 11
+[16-Mar-2014 14:59:13 America/Denver] PHP Fatal error:  require_once(): Failed opening required '/competitions/includes/functions.php' (include_path='.:/usr/php/54/usr/lib64:/usr/php/54/usr/share/pear') in /home1/pycdorg/public_html/competitions/includes/common.php on line 11
+[17-Mar-2014 13:24:23 America/Denver] PHP Fatal error:  Class 'Db' not found in /home1/pycdorg/public_html/competitions/test.php on line 9
+[19-Mar-2014 12:08:35 America/Denver] PHP Notice:  Use of undefined constant testfunc - assumed 'testfunc' in /home1/pycdorg/public_html/competitions/test.php on line 18
+[19-Mar-2014 13:17:28 America/Chicago] PHP Warning:  call_user_func() expects parameter 1 to be a valid callback, class 'Render' does not have a method 'processRequest' in /home1/pycdorg/public_html/competitions/controller.php on line 23
+[19-Mar-2014 12:33:42 America/Denver] PHP Warning:  require_once(/usr/local/apache/htdocs/competitions/includes/functions.php): failed to open stream: No such file or directory in /home1/pycdorg/public_html/competitions/includes/common.php on line 13
+[19-Mar-2014 12:33:42 America/Denver] PHP Fatal error:  require_once(): Failed opening required '/usr/local/apache/htdocs/competitions/includes/functions.php' (include_path='.:/usr/php/54/usr/lib64:/usr/php/54/usr/share/pear') in /home1/pycdorg/public_html/competitions/includes/common.php on line 13
+[19-Mar-2014 13:42:58 America/Chicago] PHP Fatal error:  Call to undefined method Render::render() in /home1/pycdorg/public_html/competitions/controller.php on line 30
+[19-Mar-2014 12:44:13 America/Denver] PHP Fatal error:  Constructor Render::render() cannot be static in /home1/pycdorg/public_html/competitions/includes/helpers/Render.php on line 179
+[19-Mar-2014 13:47:19 America/Chicago] PHP Fatal error:  Call to undefined method Session::LoginForm() in /home1/pycdorg/public_html/competitions/controller.php on line 30
+[19-Mar-2014 13:51:01 America/Chicago] PHP Fatal error:  Call to undefined method Session::PasswordResetForm() in /home1/pycdorg/public_html/competitions/controller.php on line 30
+[19-Mar-2014 14:01:00 America/Chicago] PHP Fatal error:  Call to undefined method SportsController::SubMenu() in /home1/pycdorg/public_html/competitions/controller.php on line 30
+[19-Mar-2014 14:07:07 America/Chicago] PHP Fatal error:  Access to undeclared static property: SportsController::$FORM_ID_SPORTS_SUBMENU in /home1/pycdorg/public_html/competitions/includes/controllers/SportsController.php on line 181
+[19-Mar-2014 14:07:26 America/Chicago] PHP Fatal error:  Access to undeclared static property: SportsController::$FORM_ID_SPORTS_SUBMENU in /home1/pycdorg/public_html/competitions/includes/controllers/SportsController.php on line 181
+[19-Mar-2014 15:10:18 America/Chicago] PHP Fatal error:  Call to undefined method SportsController::render() in /home1/pycdorg/public_html/competitions/controller.php on line 30
+[19-Mar-2014 15:10:34 America/Chicago] PHP Fatal error:  Call to undefined method SportsController::render() in /home1/pycdorg/public_html/competitions/controller.php on line 30
+[19-Mar-2014 15:10:46 America/Chicago] PHP Fatal error:  Call to undefined method SportsController::PlayersListAndForm() in /home1/pycdorg/public_html/competitions/controller.php on line 30
+[19-Mar-2014 15:10:56 America/Chicago] PHP Fatal error:  Call to undefined method SportsController::PlayersListAndForm() in /home1/pycdorg/public_html/competitions/controller.php on line 30
+[19-Mar-2014 14:53:49 America/Denver] PHP Parse error:  syntax error, unexpected end of file in /home1/pycdorg/public_html/competitions/test.php on line 14
+[19-Mar-2014 22:24:23 America/Chicago] PHP Fatal error:  Uncaught exception 'SassContextException' with message 'Undefined Variable: formsWidth: /home1/pycdorg/public_html/competitions/css/main.scss::104
+Source: width:$formsWidth - 5*$pad' in /home1/pycdorg/public_html/competitions/lib/Phamlp/sass/tree/SassContext.php:87
+Stack trace:
+#0 /home1/pycdorg/public_html/competitions/lib/Phamlp/sass/script/SassScriptVariable.php(43): SassContext->getVariable('formsWidth')
+#1 /home1/pycdorg/public_html/competitions/lib/Phamlp/sass/script/SassScriptParser.php(122): SassScriptVariable->evaluate(Object(SassContext))
+#2 /home1/pycdorg/public_html/competitions/lib/Phamlp/sass/script/SassScriptParser.php(71): SassScriptParser->parse('$formsWidth - 5...', Object(SassContext), 2)
+#3 /home1/pycdorg/public_html/competitions/lib/Phamlp/sass/tree/SassNode.php(297): SassScriptParser->evaluate('$formsWidth - 5...', Object(SassContext), 2)
+#4 /home1/pycdorg/public_html/competitions/lib/Phamlp/sass/tree/SassPropertyNode.php(102): SassNode->evaluate('$formsWidth - 5...', Object(SassContext) in /home1/pycdorg/public_html/competitions/lib/Phamlp/sass/tree/SassContext.php on line 87
+[19-Mar-2014 22:24:42 America/Chicago] PHP Fatal error:  Uncaught exception 'SassContextException' with message 'Undefined Variable: formsWidth: /home1/pycdorg/public_html/competitions/css/main.scss::107
+Source: width: $formsWidth - 7*$pad' in /home1/pycdorg/public_html/competitions/lib/Phamlp/sass/tree/SassContext.php:87
+Stack trace:
+#0 /home1/pycdorg/public_html/competitions/lib/Phamlp/sass/script/SassScriptVariable.php(43): SassContext->getVariable('formsWidth')
+#1 /home1/pycdorg/public_html/competitions/lib/Phamlp/sass/script/SassScriptParser.php(122): SassScriptVariable->evaluate(Object(SassContext))
+#2 /home1/pycdorg/public_html/competitions/lib/Phamlp/sass/script/SassScriptParser.php(71): SassScriptParser->parse(' $formsWidth - ...', Object(SassContext), 2)
+#3 /home1/pycdorg/public_html/competitions/lib/Phamlp/sass/tree/SassNode.php(297): SassScriptParser->evaluate(' $formsWidth - ...', Object(SassContext), 2)
+#4 /home1/pycdorg/public_html/competitions/lib/Phamlp/sass/tree/SassPropertyNode.php(102): SassNode->evaluate(' $formsWidth - ...', Object(SassContext in /home1/pycdorg/public_html/competitions/lib/Phamlp/sass/tree/SassContext.php on line 87
+[19-Mar-2014 23:11:31 America/Chicago] PHP Warning:  call_user_func_array() expects parameter 2 to be array, object given in /home1/pycdorg/public_html/competitions/includes/controllers/Controller.php on line 69
+[19-Mar-2014 23:12:07 America/Chicago] PHP Warning:  call_user_func_array() expects parameter 2 to be array, object given in /home1/pycdorg/public_html/competitions/includes/controllers/Controller.php on line 69
+[19-Mar-2014 22:14:01 America/Denver] PHP Parse error:  syntax error, unexpected ')' in /home1/pycdorg/public_html/competitions/includes/controllers/SportsController.php on line 209
+[19-Mar-2014 23:14:25 America/Chicago] PHP Warning:  call_user_func_array() expects parameter 2 to be array, object given in /home1/pycdorg/public_html/competitions/includes/controllers/Controller.php on line 68
+[19-Mar-2014 23:14:48 America/Chicago] PHP Warning:  call_user_func_array() expects parameter 2 to be array, object given in /home1/pycdorg/public_html/competitions/includes/controllers/Controller.php on line 68
+[19-Mar-2014 23:16:38 America/Chicago] PHP Warning:  call_user_func_array() expects parameter 2 to be array, object given in /home1/pycdorg/public_html/competitions/includes/controllers/Controller.php on line 68
+[19-Mar-2014 23:16:46 America/Chicago] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home1/pycdorg/public_html/competitions/includes/controllers/Controller.php on line 67
+[19-Mar-2014 23:16:46 America/Chicago] PHP Warning:  call_user_func_array() expects parameter 2 to be array, null given in /home1/pycdorg/public_html/competitions/includes/controllers/Controller.php on line 68
+[19-Mar-2014 23:16:46 America/Chicago] PHP Notice:  Array to string conversion in /home1/pycdorg/public_html/competitions/includes/controllers/Controller.php on line 70
+[19-Mar-2014 23:20:36 America/Chicago] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home1/pycdorg/public_html/competitions/includes/controllers/Controller.php on line 67
+[19-Mar-2014 23:20:36 America/Chicago] PHP Warning:  call_user_func_array() expects parameter 2 to be array, null given in /home1/pycdorg/public_html/competitions/includes/controllers/Controller.php on line 68
+[19-Mar-2014 23:20:36 America/Chicago] PHP Notice:  Array to string conversion in /home1/pycdorg/public_html/competitions/includes/controllers/Controller.php on line 70
+[19-Mar-2014 23:20:42 America/Chicago] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home1/pycdorg/public_html/competitions/includes/controllers/Controller.php on line 67
+[19-Mar-2014 23:20:42 America/Chicago] PHP Warning:  call_user_func_array() expects parameter 2 to be array, null given in /home1/pycdorg/public_html/competitions/includes/controllers/Controller.php on line 68
+[19-Mar-2014 23:20:42 America/Chicago] PHP Notice:  Array to string conversion in /home1/pycdorg/public_html/competitions/includes/controllers/Controller.php on line 70
+[19-Mar-2014 23:23:27 America/Chicago] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home1/pycdorg/public_html/competitions/includes/controllers/Controller.php on line 67
+[19-Mar-2014 23:23:27 America/Chicago] PHP Warning:  call_user_func_array() expects parameter 2 to be array, null given in /home1/pycdorg/public_html/competitions/includes/controllers/Controller.php on line 68
+[19-Mar-2014 23:26:18 America/Chicago] PHP Fatal error:  Call to undefined function Player::getById() in /home1/pycdorg/public_html/competitions/test.php on line 12
+[19-Mar-2014 23:27:18 America/Chicago] PHP Fatal error:  Call to undefined function Player::getById() in /home1/pycdorg/public_html/competitions/test.php on line 12
+[19-Mar-2014 23:31:35 America/Chicago] PHP Notice:  Use of undefined constant args - assumed 'args' in /home1/pycdorg/public_html/competitions/test.php on line 19
+[19-Mar-2014 23:31:35 America/Chicago] PHP Warning:  Missing argument 2 for Test::functor(), called in /home1/pycdorg/public_html/competitions/test.php on line 19 and defined in /home1/pycdorg/public_html/competitions/test.php on line 12
+[19-Mar-2014 23:31:35 America/Chicago] PHP Notice:  Undefined variable: arg2 in /home1/pycdorg/public_html/competitions/test.php on line 13
+[19-Mar-2014 23:31:42 America/Chicago] PHP Warning:  Missing argument 2 for Test::functor(), called in /home1/pycdorg/public_html/competitions/test.php on line 19 and defined in /home1/pycdorg/public_html/competitions/test.php on line 12
+[19-Mar-2014 23:31:42 America/Chicago] PHP Notice:  Undefined variable: arg2 in /home1/pycdorg/public_html/competitions/test.php on line 13
+[19-Mar-2014 23:31:42 America/Chicago] PHP Notice:  Array to string conversion in /home1/pycdorg/public_html/competitions/test.php on line 13
+[19-Mar-2014 23:32:33 America/Chicago] PHP Notice:  Array to string conversion in /home1/pycdorg/public_html/competitions/includes/controllers/Controller.php on line 68
+[19-Mar-2014 23:36:51 America/Chicago] PHP Warning:  call_user_func_array() expects parameter 2 to be array, string given in /home1/pycdorg/public_html/competitions/includes/controllers/Controller.php on line 67
+[20-Mar-2014 01:13:46 America/Chicago] PHP Notice:  Undefined variable: sport in /home1/pycdorg/public_html/competitions/includes/controllers/SportsController.php on line 186
+[20-Mar-2014 01:13:46 America/Chicago] PHP Fatal error:  Call to a member function getId() on a non-object in /home1/pycdorg/public_html/competitions/includes/controllers/SportsController.php on line 186
+[20-Mar-2014 01:14:39 America/Chicago] PHP Notice:  Undefined variable: sport in /home1/pycdorg/public_html/competitions/includes/controllers/SportsController.php on line 186
+[20-Mar-2014 01:14:39 America/Chicago] PHP Fatal error:  Call to a member function getId() on a non-object in /home1/pycdorg/public_html/competitions/includes/controllers/SportsController.php on line 186
+[20-Mar-2014 01:14:41 America/Chicago] PHP Notice:  Undefined variable: sport in /home1/pycdorg/public_html/competitions/includes/controllers/SportsController.php on line 186
+[20-Mar-2014 01:14:41 America/Chicago] PHP Fatal error:  Call to a member function getId() on a non-object in /home1/pycdorg/public_html/competitions/includes/controllers/SportsController.php on line 186
+[20-Mar-2014 01:14:46 America/Chicago] PHP Notice:  Undefined variable: sport in /home1/pycdorg/public_html/competitions/includes/controllers/SportsController.php on line 186
+[20-Mar-2014 01:14:46 America/Chicago] PHP Fatal error:  Call to a member function getId() on a non-object in /home1/pycdorg/public_html/competitions/includes/controllers/SportsController.php on line 186
+[20-Mar-2014 01:53:43 America/Chicago] PHP Notice:  Undefined variable: emai in /home1/pycdorg/public_html/competitions/includes/controllers/SportsController.php on line 126
+[20-Mar-2014 01:59:53 America/Chicago] PHP Notice:  Undefined variable: playerId in /home1/pycdorg/public_html/competitions/includes/controllers/SportsController.php on line 131
+[20-Mar-2014 02:07:05 America/Chicago] PHP Notice:  Undefined variable: sport in /home1/pycdorg/public_html/competitions/includes/controllers/SportsController.php on line 140
+[20-Mar-2014 02:07:05 America/Chicago] PHP Fatal error:  Call to a member function getId() on a non-object in /home1/pycdorg/public_html/competitions/includes/controllers/SportsController.php on line 140
+[20-Mar-2014 12:25:36 America/Chicago] PHP Notice:  Use of undefined constant isInfoValid - assumed 'isInfoValid' in /home1/pycdorg/public_html/competitions/includes/controllers/SportsController.php on line 61
+[20-Mar-2014 13:36:56 America/Chicago] PHP Fatal error:  Call to undefined method Template::printHeader() in /home1/pycdorg/public_html/competitions/test.php on line 25
+[20-Mar-2014 12:37:22 America/Denver] PHP Parse error:  syntax error, unexpected '?>' in /home1/pycdorg/public_html/competitions/includes/helpers/Template.php on line 29
+[20-Mar-2014 14:07:00 America/Chicago] PHP Fatal error:  Class 'AdminController' not found in /home1/pycdorg/public_html/competitions/includes/controllers/Controller.php on line 161
+[20-Mar-2014 14:08:49 America/Chicago] PHP Fatal error:  Class 'AdminController' not found in /home1/pycdorg/public_html/competitions/includes/controllers/Controller.php on line 161
+[20-Mar-2014 14:09:39 America/Chicago] PHP Fatal error:  Class 'AdminController' not found in /home1/pycdorg/public_html/competitions/includes/controllers/Controller.php on line 161
+[20-Mar-2014 15:00:04 America/Chicago] PHP Notice:  Undefined index: churchIdFlddsf in /home1/pycdorg/public_html/competitions/includes/controllers/AdminController.php on line 39
+[20-Mar-2014 15:44:02 America/Chicago] PHP Fatal error:  Access to undeclared static property: Church::$YD_NAME_LBL in /home1/pycdorg/public_html/competitions/includes/controllers/AdminController.php on line 78
+[20-Mar-2014 16:14:15 America/Chicago] PHP Fatal error:  Call to undefined function is_string_valid() in /home1/pycdorg/public_html/competitions/includes/controllers/AdminController.php on line 41
+[20-Mar-2014 16:14:38 America/Chicago] PHP Fatal error:  Call to undefined function is_string_valid() in /home1/pycdorg/public_html/competitions/includes/controllers/AdminController.php on line 41
+[20-Mar-2014 16:15:42 America/Chicago] PHP Notice:  Undefined variable: fullname in /home1/pycdorg/public_html/competitions/includes/functions.php on line 32
+[20-Mar-2014 16:53:12 America/Chicago] PHP Notice:  Undefined property: Church::$pastorEmai in /home1/pycdorg/public_html/competitions/includes/controllers/AdminController.php on line 175
+[20-Mar-2014 16:53:39 America/Chicago] PHP Notice:  Undefined property: Church::$pastorEmai in /home1/pycdorg/public_html/competitions/includes/controllers/AdminController.php on line 175
+[20-Mar-2014 16:53:40 America/Chicago] PHP Notice:  Undefined property: Church::$pastorEmai in /home1/pycdorg/public_html/competitions/includes/controllers/AdminController.php on line 175
+[20-Mar-2014 17:04:31 America/Chicago] PHP Notice:  Undefined variable: fullname in /home1/pycdorg/public_html/competitions/includes/controllers/AdminController.php on line 112
+[20-Mar-2014 17:30:46 America/Chicago] PHP Notice:  Undefined variable: name in /home1/pycdorg/public_html/competitions/includes/controllers/AdminController.php on line 135
+[20-Mar-2014 17:30:46 America/Chicago] PHP Notice:  Undefined variable: members in /home1/pycdorg/public_html/competitions/includes/controllers/AdminController.php on line 136
+[20-Mar-2014 17:30:46 America/Chicago] PHP Notice:  Undefined variable: pastorName in /home1/pycdorg/public_html/competitions/includes/controllers/AdminController.php on line 137
+[20-Mar-2014 17:30:46 America/Chicago] PHP Notice:  Undefined variable: pastorEmail in /home1/pycdorg/public_html/competitions/includes/controllers/AdminController.php on line 138
+[20-Mar-2014 17:30:46 America/Chicago] PHP Notice:  Undefined variable: ydName in /home1/pycdorg/public_html/competitions/includes/controllers/AdminController.php on line 139
+[20-Mar-2014 17:30:46 America/Chicago] PHP Notice:  Undefined variable: ydEmail in /home1/pycdorg/public_html/competitions/includes/controllers/AdminController.php on line 140
+[20-Mar-2014 17:52:34 America/Chicago] PHP Fatal error:  Call to a member function save() on a non-object in /home1/pycdorg/public_html/competitions/includes/controllers/AdminController.php on line 36
+[20-Mar-2014 17:55:50 America/Chicago] PHP Fatal error:  Call to a member function save() on a non-object in /home1/pycdorg/public_html/competitions/includes/controllers/AdminController.php on line 36
+[20-Mar-2014 17:55:57 America/Chicago] PHP Fatal error:  Call to a member function save() on a non-object in /home1/pycdorg/public_html/competitions/includes/controllers/AdminController.php on line 36
+[20-Mar-2014 17:55:58 America/Chicago] PHP Fatal error:  Call to a member function save() on a non-object in /home1/pycdorg/public_html/competitions/includes/controllers/AdminController.php on line 36
+[20-Mar-2014 17:56:03 America/Chicago] PHP Fatal error:  Call to a member function save() on a non-object in /home1/pycdorg/public_html/competitions/includes/controllers/AdminController.php on line 36
+[20-Mar-2014 17:56:29 America/Chicago] PHP Fatal error:  Call to a member function save() on a non-object in /home1/pycdorg/public_html/competitions/includes/controllers/AdminController.php on line 36
+[20-Mar-2014 20:31:11 America/Chicago] PHP Warning:  PDOStatement::bindParam() expects parameter 1 to be string, object given in /home1/pycdorg/public_html/competitions/includes/models/Church.php on line 41
+[20-Mar-2014 20:31:11 America/Chicago] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: no parameters were bound in /home1/pycdorg/public_html/competitions/includes/models/Church.php on line 43
+[20-Mar-2014 20:45:07 America/Chicago] PHP Fatal error:  Call to undefined method Controller::viewAs() in /home1/pycdorg/public_html/competitions/controller.php on line 30
+[20-Mar-2014 20:18:58 America/Denver] PHP Parse error:  syntax error, unexpected end of file in /home1/pycdorg/public_html/competitions/includes/controllers/AdminController.php on line 475
+[20-Mar-2014 21:37:53 America/Chicago] PHP Notice:  Undefined property: User::$id in /home1/pycdorg/public_html/competitions/includes/controllers/AdminController.php on line 476
+[20-Mar-2014 21:37:53 America/Chicago] PHP Notice:  Trying to get property of non-object in /home1/pycdorg/public_html/competitions/includes/controllers/AdminController.php on line 481
+[20-Mar-2014 21:41:24 America/Chicago] PHP Notice:  Undefined property: User::$id in /home1/pycdorg/public_html/competitions/includes/controllers/AdminController.php on line 480

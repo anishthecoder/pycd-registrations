@@ -1,0 +1,286 @@
+/* Imports -------------------------------------------------------------------*/
+@import 'variables';
+
+
+/* Positioning ---------------------------------------------------------------*/
+body {
+	text-align:center; 	/* To allow main container div to auto-center; */
+}
+
+#header {
+	display:none;				/* Initially hidden. */
+  margin: 0 auto;
+  padding: $pad 0 2*$pad;
+  text-align: left;
+  width: $mainWidth;
+
+  h1 {
+    padding: 0 0 0 $pad/2;
+    width: $baseFontSize*5;
+
+    span {display: block; }
+  }
+  #sessionInfo{
+    float:right;
+    position: relative;
+    top: $pad*-1;
+  }
+}
+
+#main {
+	display:none;				/* Initially hidden. */
+	height: $mainHeight;
+	margin: 0 auto;
+	overflow: hidden;		/* Addresses the floating div collapse problem. */
+	padding: 2*$pad;
+	text-align: left;
+	width: $mainWidth;
+}
+
+/* Common column positions specs */
+div.columns   {
+	float:left;
+	height: $mainHeight - $pad;
+
+	div.placeholder {
+		opacity: 0.1;
+		width: $mainWidth / 6;
+	}
+
+	/* Table styling */
+	table {
+		table-layout: fixed;
+		td, th {padding: $pad/2 $pad/2;}
+	}
+
+	td.actions{
+		span {padding: $baseFontSize / 5;};
+	}
+
+}
+#leftcolumn   {
+	width: $leftColWidth;
+	h1 {padding: 0 $pad/2 $pad/2 $pad;}
+	ul {padding: $pad 0};
+	li {padding: $pad*4/5 $pad;}
+	li.hover {padding: $pad*4/5 $pad/2;}
+}
+#middlecolumn {
+	padding-right: 2*$pad;
+	margin-left: 2*$pad;
+	width: $midColWidth;
+
+	h1 {padding-bottom: $pad;}
+
+	table{
+		margin-bottom: $pad;
+		max-height: $mainHeight - 10*$pad;
+		display: block;
+		overflow: auto;
+	}
+}
+#rightcolumn  {
+	margin-left: 2*$pad;
+	width: $rightColWidth;
+
+	form {
+		clear:both;
+		float:left;
+		display:block;
+		margin-bottom: $pad*2;
+	}
+
+	h1 {padding-bottom: $pad;}
+	h2 {
+		clear:both;
+		margin-top: $pad*2;
+		padding-bottom: $pad/2;
+	}
+
+
+	table {
+		margin-bottom: $pad*2;
+		max-height: $mainHeight - 30*$pad;
+		display: block;
+		overflow: auto;
+	}
+}
+
+/* Form Styleing */
+form.inlineLabeled{
+  p {
+    display: block;
+    float:left;
+    position:relative;
+	}
+  input, label, select {
+    padding: $pad/2 $pad;
+  }
+
+  label {
+    position:absolute;
+    top:$baseFontSize/3;
+  }
+
+  input[type='submit']{
+    float:left;
+    text-align:left;
+    width:auto;
+  }
+}
+
+#rightcolumn form {
+	input, select {width: 100%;}
+}
+
+
+
+
+/* Fonts & Colors & Borders --------------------------------------------------*/
+#header {
+  h1 {
+    color: $fgColor1;
+    font-size:$baseFontSize*1.875;
+    letter-spacing: -1px;
+    line-height: $baseFontSize*1.75;
+
+    span {font-size: $baseFontSize*1.25;}
+  }
+  #sessionInfo {
+    font-size:80%;
+    span {
+      color: $fgColor2;
+      font-size: 80%;
+      text-transform: uppercase;
+    }
+    a:link {
+      color: $fgColor1;
+      font-size: 90%;
+      text-transform:lowercase;
+    }
+  }
+}
+
+#main {
+	background-color: #fefefe;
+	border-radius: 5px;
+}
+
+div.columns {
+	div.placeholder{
+		font-size: 250%;
+		font-weight: bold;
+		letter-spacing: -2px;
+		line-height: 1em;
+		text-shadow: 1px 1px 1px $bgColor;
+	}
+
+	table {font-size: $baseFontSize/1.2;}
+	tr {border-top: 1px solid lighten($fgColor1, 20%);}
+	thead {
+		font-size:$baseFontSize/1.6;
+		text-transform: uppercase;}
+	thead tr  {border: 0;}
+	td.actions{
+		color: transparent;
+		font-size:$baseFontSize/1.6;
+		text-transform:uppercase;
+
+		span{cursor: pointer;}
+	}
+
+	tr.selected { background-color: #fbf9e5; }
+	tr.hover {background-color: $highlight;}
+	tr.hover td.actions {color: $fgColor2; }
+	td.actions span:hover { background-color: #faa; color: #fff; }
+	/* TODO: Inversion of colors. */
+}
+
+#leftcolumn {
+	ul {
+		font-size: 10px;
+		text-transform: uppercase;
+	}
+	li  {line-height:1.5em;}
+
+	li.hover {
+		background-color: $highlight;
+		cursor: pointer;
+	}
+	li.hover, li.selected {border-left: $pad/2 solid $fgColor1;}
+	li.backlink {text-transform: lowercase;}
+}
+
+#leftcolumn,
+#middlecolumn,
+#rightcolumn {
+	h1 {
+		color: darken($bgColor, 10%);
+		font-weight: bold;
+		font-size: 130%;
+		letter-spacing: -1px;
+		line-height: 1.4em;
+	}
+	h2 {
+		color: darken($bgColor, 10%);
+		font-size: 120%;
+		letter-spacing: -1px;
+		line-height: 1.4em;
+	}
+}
+
+#middlecolumn p {
+	color: #333;
+	font-size:14px;
+}
+#leftcolumn, #middlecolumn {
+	border-right: 1px dashed darken($bgColor, 20%);
+}
+
+form.inlineLabeled {
+  label {
+    color: #aaa;
+    text-transform: lowercase;
+  }
+  label,
+  input[type='text'],
+  input[type='password'],
+	select {font-size:$baseFontSize/1.2; }
+
+  input[type='text'],
+  input[type='password'],
+	select {
+    border: 1px solid #aaa;
+    border-radius:$baseFontSize/3;
+  }
+}
+
+form.inlineLabeled input[type='submit'],
+input[type='button']{
+	border: 2px outset buttonface;
+	border-radius: $baseFontSize/3;
+	color: $fgColor1;
+	cursor: pointer;
+	font-size: $baseFontSize/1.45;
+	font-weight:bold;
+	padding: $pad/2 $pad;
+	text-transform: uppercase;
+}
+
+
+
+/* General Purpose -----------------------------------------------------------*/
+.w100{width: 100%;}
+.w95{width: 95%;}
+.w90{width: 90%;}
+.w85{width: 85%;}
+.w83{width: 83%;}
+.w80{width: 80%;}
+.w70{width: 70%;}
+.w50{width: 50%;}
+.w40{width: 40%;}
+.w20{width: 20%;}
+.w10{width: 10%;}
+.w5{width: 5%;}
+
+.pointer {cursor: pointer};
