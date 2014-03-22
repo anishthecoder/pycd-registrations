@@ -1,0 +1,108 @@
+/**
+ * Special styling for the login forms, and other initial authentication /
+ * session related elements.
+ */
+
+/* Imports -------------------------------------------------------------------*/
+@import 'variables';
+
+/* Variables -----------------------------------------------------------------*/
+$formsWidth: 350px;
+
+/* Layout */
+#header {
+  /* Overrides main.scss */
+  padding: 4*$pad 0 2*$pad;
+  width: $mainWidth/3;
+
+  h1 {padding: 0 2*$pad 0;}
+  #sessionInfo {display:none;}
+}
+
+#main {
+  margin:0 auto;
+  text-align: center;
+  padding: 0;
+  width: $formsWidth;
+}
+
+form.loginforms {
+  margin: 0 auto;
+  overflow:auto;
+  padding: 0;
+  text-align: left;
+  width: $formsWidth - 2*$pad;
+
+  p {
+    display: block;
+    clear:both;
+    float:left;
+    padding: $pad/2 $pad;
+    position:relative;
+    width:$formsWidth - 5*$pad;
+
+    a {
+       float:left;
+       margin: 0 0 0 $pad;
+       padding: $baseFontSize/6 $baseFontSize/3;
+       width: $baseFontSize*7;
+    }
+  }
+
+  input, label {
+    padding: $pad;
+    width: $formsWidth - 7*$pad;
+  }
+
+  label {
+    position:absolute;
+    top:$baseFontSize/2;
+  }
+
+  input[type='submit']{
+    float:left;
+    text-align:left;
+    width:auto;
+  }
+}
+
+
+
+/* Fonts, Colors, & Borders --------------------------------------------------*/
+#main {background-color: $bgColor;}
+
+form.loginforms {
+  label {color: #aaa; }
+  label, input {
+    font-size:$baseFontSize;
+    letter-spacing:-1px;
+    text-transform: lowercase;
+  }
+
+  input[type='text'],
+  input[type='password']{
+    border: 1px solid #aaa;
+    border-radius:$baseFontSize/3;
+  }
+  input[type='submit']{
+    border-radius: $baseFontSize/3;
+    color: $fgColor1;
+    font-size: $baseFontSize;
+    font-weight:bold;
+    padding: $pad/2 $pad;
+    text-transform: lowercase;
+  }
+
+  p {
+    a:link,
+    a:hover,
+    a:visited,
+    a:active {
+      color: $fgColor1;
+      font-size: $baseFontSize/1.45;
+      text-decoration:none;
+    }
+
+    a:hover {color: #a00;}
+  }
+}

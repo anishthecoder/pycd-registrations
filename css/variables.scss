@@ -1,0 +1,24 @@
+/**
+ * Common variables shared between the style sheets.
+ */
+$bgColor: #f0eeee;
+$fgColor1: #C66;
+$fgColor2: #5A5F85;
+$highlight: lighten(#FFFF99, 10%);
+$mainWidth: 960px;
+$pad: 10px;
+$baseFontSize: 16px;
+
+$mainHeight: $mainWidth * 1.75 / 3;
+$effectiveMainWidth: $mainWidth - 6*$pad;
+$leftColWidth: $effectiveMainWidth * 1 / 6;
+$midColWidth: $effectiveMainWidth * 2.2 / 6;
+$rightColWidth: $effectiveMainWidth * 2.8 / 6 - 4; /* Subtract for borders. */
+
+
+/* Base Styles ---------------------------------------------------------------*/
+body{
+	background-color: $bgColor;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: $baseFontSize;
+}
